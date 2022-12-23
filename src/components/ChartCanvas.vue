@@ -29,14 +29,7 @@
 					// 	duration: 300,
 					// 	easing: 'inAndOut',
 					// },
-					// backgroundColor: {
-					// 	gradient: {
-					// 		color1: '#fbf6a7', 
-					// 		color2: '#33b679',
-					// 	}
-					// }, 
-					backgroundColor: 'transparent',
-					// colors: ['white'], 
+					backgroundColor: 'transparent', 
 					crosshair: {
 						trigger: 'focus', 
 						color: 'white', 
