@@ -23,53 +23,7 @@
 		},
 		data() {
 			return {
-				type: 'AreaChart', 
-				options: {
-					animation: {
-						duration: 300,
-						easing: 'inAndOut',
-					},
-					backgroundColor: 'transparent', 
-					chartArea: {
-						left: '7%',
-						right: 0,
-						width: '90%',
-					},
-					crosshair: {
-						trigger: 'focus', 
-						color: 'white', 
-						orientation: 'vertical', 
-						color: '#6c757d',
-					},
-					focusTarget: 'category',
-					hAxis: {
-						format: 'd MMM', 
-						gridlines: {
-							color: 'transparent', 
-						}, 
-						textStyle: {
-							color: '#6c757d', 
-						},
-					},
-					legend: 'none',
-					tooltip: {
-						trigger: 'both',
-						isHtml: true,
-					},
-					vAxis: {
-						gridlines: {
-							color: '#25292B', 
-							count: 5,
-						}, 
-						minorGridlines: {
-							color: 'transparent'
-						}, 
-						textStyle: {
-							color: '#6c757d', 
-						}
-					}, 
-					width: '100%', 
-				}
+				type: 'LineChart'
 			}
 		}, 
 		computed: {
@@ -107,6 +61,75 @@
 				else {
 					return 'Duration (min)'
 				}
+			}, 
+			options() {
+				const base_json = {
+					animation: {
+						duration: 300,
+						easing: 'inAndOut',
+					},
+					backgroundColor: 'transparent', 
+					chartArea: {
+						left: '7%',
+						right: 0,
+						width: '90%',
+					},
+					crosshair: {
+						trigger: 'focus', 
+						color: 'white', 
+						orientation: 'vertical', 
+						color: '#6c757d',
+					},
+					curveType: 'function',
+					focusTarget: 'category',
+					hAxis: {
+						format: 'd MMM', 
+						gridlines: {
+							color: 'transparent', 
+						}, 
+						textStyle: {
+							color: '#6c757d', 
+						},
+					},
+					legend: 'none',
+					tooltip: {
+						trigger: 'both',
+						isHtml: true,
+					},
+					vAxis: {
+						gridlines: {
+							color: '#25292B', 
+							count: 5,
+						}, 
+						minorGridlines: {
+							color: 'transparent'
+						}, 
+						textStyle: {
+							color: '#6c757d', 
+						}
+					}, 
+					width: '100%', 
+				}
+				if (this.chart_type === 'City') {
+					const start_day_speed = (this.timeseries[0].distance/1000/this.timeseries[0].duration_in_traffic*60*60 + this.timeseries[1].distance/1000/this.timeseries[1].duration_in_traffic*60*60)/2
+					const end_day_speed = (this.timeseries[this.timeseries.length - 1].distance/1000/this.timeseries[this.timeseries.length - 1].duration_in_traffic*60*60 + this.timeseries[this.timeseries.length - 2].distance/1000/this.timeseries[this.timeseries.length - 2].duration_in_traffic*60*60)/2
+					if (start_day_speed > end_day_speed) {
+						base_json.colors = ['#dc3545']
+					}
+					else if (start_day_speed < end_day_speed) {
+						base_json.colors = ['#28a745']
+					}
+				} else {
+					const start_day_duration = (this.timeseries[0].duration_in_traffic + this.timeseries[1].duration_in_traffic)/2
+					const end_day_duration = (this.timeseries[this.timeseries.length - 1].duration_in_traffic + this.timeseries[this.timeseries.length - 2].duration_in_traffic)/2
+					if (start_day_duration < end_day_duration) {
+						base_json.colors = ['#dc3545']
+					}
+					else if (start_day_duration > end_day_duration) {
+						base_json.colors = ['#28a745']
+					}
+				}
+				return base_json
 			}
 		}
 	}
