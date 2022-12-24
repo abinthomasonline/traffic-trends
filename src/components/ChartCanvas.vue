@@ -59,7 +59,7 @@
 					return 'Average Driving Speed (km/h)'
 				}
 				else {
-					return 'Duration (min)'
+					return 'Driving Time (min)'
 				}
 			}, 
 			options() {
