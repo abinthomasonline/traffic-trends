@@ -111,25 +111,27 @@
 					width: '100%', 
 					trendlines: { 0: {
 						type: 'polynomial',
-						degree: 5,
+						degree: 1,
 					} },
 				}
 				if (this.chart_type === 'City') {
-					const start_day_speed = (this.timeseries[0].distance/1000/this.timeseries[0].duration_in_traffic*60*60 + this.timeseries[1].distance/1000/this.timeseries[1].duration_in_traffic*60*60)/2
-					const end_day_speed = (this.timeseries[this.timeseries.length - 1].distance/1000/this.timeseries[this.timeseries.length - 1].duration_in_traffic*60*60 + this.timeseries[this.timeseries.length - 2].distance/1000/this.timeseries[this.timeseries.length - 2].duration_in_traffic*60*60)/2
-					if (start_day_speed > end_day_speed) {
+					const speed_array = this.timeseries.map((row) => (row.distance/1000)/(row.duration_in_traffic/60/60))
+					const first_half_mean = speed_array.slice(0, speed_array.length/2).reduce((a, b) => a + b, 0)/speed_array.length/2
+					const second_half_mean = speed_array.slice(speed_array.length/2, speed_array.length).reduce((a, b) => a + b, 0)/speed_array.length/2
+					if (first_half_mean > second_half_mean) {
 						base_json.colors = ['#dc3545']
 					}
-					else if (start_day_speed < end_day_speed) {
+					else if (first_half_mean < second_half_mean) {
 						base_json.colors = ['#28a745']
 					}
 				} else {
-					const start_day_duration = (this.timeseries[0].duration_in_traffic + this.timeseries[1].duration_in_traffic)/2
-					const end_day_duration = (this.timeseries[this.timeseries.length - 1].duration_in_traffic + this.timeseries[this.timeseries.length - 2].duration_in_traffic)/2
-					if (start_day_duration < end_day_duration) {
+					const duration_array = this.timeseries.map((row) => row.duration_in_traffic/60)
+					const first_half_mean = duration_array.slice(0, duration_array.length/2).reduce((a, b) => a + b, 0)/duration_array.length/2
+					const second_half_mean = duration_array.slice(duration_array.length/2, duration_array.length).reduce((a, b) => a + b, 0)/duration_array.length/2
+					if (first_half_mean < second_half_mean) {
 						base_json.colors = ['#dc3545']
 					}
-					else if (start_day_duration > end_day_duration) {
+					else if (first_half_mean > second_half_mean) {
 						base_json.colors = ['#28a745']
 					}
 				}
