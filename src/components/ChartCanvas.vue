@@ -25,11 +25,16 @@
 			return {
 				type: 'AreaChart', 
 				options: {
-					// animation: {
-					// 	duration: 300,
-					// 	easing: 'inAndOut',
-					// },
+					animation: {
+						duration: 300,
+						easing: 'inAndOut',
+					},
 					backgroundColor: 'transparent', 
+					chartArea: {
+						left: '7%',
+						right: 0,
+						width: '90%',
+					},
 					crosshair: {
 						trigger: 'focus', 
 						color: 'white', 
@@ -97,7 +102,7 @@
 			}, 
 			chart_title() {
 				if (this.chart_type === 'City') {
-					return 'Average Speed (km/h)'
+					return 'Average Driving Speed (km/h)'
 				}
 				else {
 					return 'Duration (min)'
@@ -114,6 +119,7 @@
 		margin: 25px auto;
 		padding: 0 15px;
 		background-color: rgba(108,117,125,.06274509803921569);
+		border-radius: 10px;
 	}
 
 	.container h4 {
