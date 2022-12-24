@@ -109,6 +109,10 @@
 						}
 					}, 
 					width: '100%', 
+					trendlines: { 0: {
+						type: 'polynomial',
+						degree: 5,
+					} },
 				}
 				if (this.chart_type === 'City') {
 					const start_day_speed = (this.timeseries[0].distance/1000/this.timeseries[0].duration_in_traffic*60*60 + this.timeseries[1].distance/1000/this.timeseries[1].duration_in_traffic*60*60)/2
