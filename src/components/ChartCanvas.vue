@@ -30,9 +30,9 @@
 			data() {
 				if (this.chart_type === 'City') {
 					return [[
-						'Date', 
-						{role: 'tooltip', type: 'string', 'p': {'html': true}}, 
-						'Average Speed', 
+						{label: 'Date', role: 'domain'}, 
+						{role: 'tooltip', type: 'string', 'p': {html: true}}, 
+						{label: 'Average Driving Speed', role: 'data'}, 
 					]].concat(
 						this.timeseries.map((row) => [
 							new Date(row.timestamp + "Z"), 
@@ -42,9 +42,9 @@
 				}
 				else {
 					return [[
-						'Date', 
+						{label: 'Date', role: 'domain'}, 
 						{role: 'tooltip', type: 'string', 'p': {'html': true}}, 
-						'Duration', 
+						{label: 'Driving Time', role: 'data'}, 
 					]].concat(
 						this.timeseries.map((row) => [
 							new Date(row.timestamp + "Z"), 
