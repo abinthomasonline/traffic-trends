@@ -22,6 +22,14 @@ export default {
         this.current_chart = chart.sha256;
         this.chart_type = chart.chart_type;
       }
+    }, 
+    async loadCache(chart_ids) {
+      for (let i = 0; i < chart_ids.length; i++) {
+        const url = 'data/timeseries/sha256-' + chart_ids[i] + '.json';
+        const response = await fetch(url);
+        const data = await response.json();
+        this.timeseries_dict[chart_ids[i]] = data;
+      }
     }
   }, 
   data() {
@@ -37,7 +45,7 @@ export default {
 <template>
   <h1>Traffic Trends</h1>
   <p>tracking road traffic data of indian cities</p>
-  <ChartSelector @chart-selected="fetchTimeseries"/>
+  <ChartSelector @chart-selected="fetchTimeseries" @load-cache="loadCache"/>
   <ChartCanvas v-if="current_chart" :timeseries="timeseries_dict[current_chart]" :chart_type="chart_type"/>
 </template>
 

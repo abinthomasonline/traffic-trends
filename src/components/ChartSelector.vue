@@ -57,6 +57,7 @@ export default {
 		this.destination_selected = this.origin_destination_pairs.filter(option => option.origin === this.origin_selected)[0].destination;
 
 		this.selectChart(this.tab_selected);
+		this.loadCache();
 	},
 	methods: {
 		async fetchCities() {
@@ -85,9 +86,15 @@ export default {
 					chart_type: chart_type
 				});
 			}
+		}, 
+		loadCache() {
+			const chart_ids = this.city_options.map(option => option.sha256).concat(
+				this.origin_destination_pairs.map(option => option.sha256));
+			this.$emit('load-cache', chart_ids);
 		}
+
 	}, 
-	emits: ['chart-selected']
+	emits: ['chart-selected', 'load-cache']
 }
 </script>
 
