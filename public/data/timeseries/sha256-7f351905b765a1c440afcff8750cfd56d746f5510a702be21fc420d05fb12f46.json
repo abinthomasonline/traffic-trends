@@ -88,5 +88,11 @@
         "distance": 10030,
         "duration": 2092,
         "duration_in_traffic": 1972
+    },
+    {
+        "timestamp": "2022-12-26T12:49:35.411770",
+        "distance": 10030,
+        "duration": 2092,
+        "duration_in_traffic": 2592
     }
 ]
