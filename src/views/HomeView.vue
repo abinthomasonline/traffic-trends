@@ -26,9 +26,13 @@ export default {
     async loadCache(chart_ids) {
       for (let i = 0; i < chart_ids.length; i++) {
         const url = 'data/timeseries/sha256-' + chart_ids[i] + '.json';
-        const response = await fetch(url);
-        const data = await response.json();
-        this.timeseries_dict[chart_ids[i]] = data;
+        // const response = await fetch(url);
+        // const data = await response.json();
+        // this.timeseries_dict[chart_ids[i]] = data;
+        fetch(url).then(response => response.json()).then(data => {
+          this.timeseries_dict[chart_ids[i]] = data;
+          console.log('loaded ' + i);
+        });
       }
     }
   }, 
