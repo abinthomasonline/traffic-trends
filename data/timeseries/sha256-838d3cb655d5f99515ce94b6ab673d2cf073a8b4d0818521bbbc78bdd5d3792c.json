@@ -1,1 +1,92 @@
-[{"timestamp": "2022-12-19T03:45:09.294418", "distance": 3209251, "duration": 413278, "duration_in_traffic": 428872}, {"timestamp": "2022-12-19T12:59:43.141754", "distance": 3252863, "duration": 414541, "duration_in_traffic": 492253}, {"timestamp": "2022-12-20T03:45:54.388772", "distance": 3219434, "duration": 418152, "duration_in_traffic": 440387}, {"timestamp": "2022-12-20T12:59:43.656227", "distance": 3172946, "duration": 413944, "duration_in_traffic": 498699}, {"timestamp": "2022-12-21T03:45:17.766170", "distance": 3266189, "duration": 417458, "duration_in_traffic": 433791}, {"timestamp": "2022-12-21T12:50:33.302010", "distance": 3189769, "duration": 417258, "duration_in_traffic": 516439}, {"timestamp": "2022-12-22T03:43:40.558335", "distance": 3214762, "duration": 411324, "duration_in_traffic": 423719}, {"timestamp": "2022-12-22T12:50:32.138973", "distance": 3276082, "duration": 417800, "duration_in_traffic": 517784}, {"timestamp": "2022-12-23T03:43:45.719552", "distance": 3165520, "duration": 412854, "duration_in_traffic": 400681}, {"timestamp": "2022-12-23T12:49:47.354344", "distance": 3234911, "duration": 415989, "duration_in_traffic": 508792}, {"timestamp": "2022-12-24T03:43:40.995196", "distance": 3112792, "duration": 412782, "duration_in_traffic": 381843}, {"timestamp": "2022-12-24T12:48:56.747594", "distance": 3212782, "duration": 415744, "duration_in_traffic": 503355}, {"timestamp": "2022-12-25T03:43:43.311372", "distance": 3140539, "duration": 409283, "duration_in_traffic": 336352}, {"timestamp": "2022-12-25T12:49:08.910449", "distance": 3286043, "duration": 414332, "duration_in_traffic": 437746}]
+[
+    {
+        "timestamp": "2022-12-19T03:45:09.294418",
+        "distance": 3209251,
+        "duration": 413278,
+        "duration_in_traffic": 428872
+    },
+    {
+        "timestamp": "2022-12-19T12:59:43.141754",
+        "distance": 3252863,
+        "duration": 414541,
+        "duration_in_traffic": 492253
+    },
+    {
+        "timestamp": "2022-12-20T03:45:54.388772",
+        "distance": 3219434,
+        "duration": 418152,
+        "duration_in_traffic": 440387
+    },
+    {
+        "timestamp": "2022-12-20T12:59:43.656227",
+        "distance": 3172946,
+        "duration": 413944,
+        "duration_in_traffic": 498699
+    },
+    {
+        "timestamp": "2022-12-21T03:45:17.766170",
+        "distance": 3266189,
+        "duration": 417458,
+        "duration_in_traffic": 433791
+    },
+    {
+        "timestamp": "2022-12-21T12:50:33.302010",
+        "distance": 3189769,
+        "duration": 417258,
+        "duration_in_traffic": 516439
+    },
+    {
+        "timestamp": "2022-12-22T03:43:40.558335",
+        "distance": 3214762,
+        "duration": 411324,
+        "duration_in_traffic": 423719
+    },
+    {
+        "timestamp": "2022-12-22T12:50:32.138973",
+        "distance": 3276082,
+        "duration": 417800,
+        "duration_in_traffic": 517784
+    },
+    {
+        "timestamp": "2022-12-23T03:43:45.719552",
+        "distance": 3165520,
+        "duration": 412854,
+        "duration_in_traffic": 400681
+    },
+    {
+        "timestamp": "2022-12-23T12:49:47.354344",
+        "distance": 3234911,
+        "duration": 415989,
+        "duration_in_traffic": 508792
+    },
+    {
+        "timestamp": "2022-12-24T03:43:40.995196",
+        "distance": 3112792,
+        "duration": 412782,
+        "duration_in_traffic": 381843
+    },
+    {
+        "timestamp": "2022-12-24T12:48:56.747594",
+        "distance": 3212782,
+        "duration": 415744,
+        "duration_in_traffic": 503355
+    },
+    {
+        "timestamp": "2022-12-25T03:43:43.311372",
+        "distance": 3140539,
+        "duration": 409283,
+        "duration_in_traffic": 336352
+    },
+    {
+        "timestamp": "2022-12-25T12:49:08.910449",
+        "distance": 3286043,
+        "duration": 414332,
+        "duration_in_traffic": 437746
+    },
+    {
+        "timestamp": "2022-12-26T03:43:43.316351",
+        "distance": 3190964,
+        "duration": 410769,
+        "duration_in_traffic": 399187
+    }
+]
