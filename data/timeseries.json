@@ -335,6 +335,12 @@
             "distance": 20856,
             "duration": 3719,
             "duration_in_traffic": 3715
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287461",
+            "distance": 25947,
+            "duration": 3626,
+            "duration_in_traffic": 4888
         }
     ],
     "2e66256a12d6df247c8885b2d24a51ea23613d4f61ea2a6460c227a399f9d1b1": [
@@ -673,6 +679,12 @@
             "distance": 24936,
             "duration": 2710,
             "duration_in_traffic": 2629
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801973",
+            "distance": 24936,
+            "duration": 2710,
+            "duration_in_traffic": 2512
         }
     ],
     "a7a0889817a50cfeb54d4067098831f15ccbbbc9e6e19d7031d24f45d9d2740e": [
@@ -1011,6 +1023,12 @@
             "distance": 66534,
             "duration": 5903,
             "duration_in_traffic": 6032
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590723",
+            "distance": 66534,
+            "duration": 5903,
+            "duration_in_traffic": 5786
         }
     ],
     "cf37fa1468a97206e256ae4987db9eaffc03f4cc2f27a2a75037112862f08ec0": [
@@ -1349,6 +1367,12 @@
             "distance": 18615,
             "duration": 2502,
             "duration_in_traffic": 2335
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071990",
+            "distance": 18615,
+            "duration": 2502,
+            "duration_in_traffic": 2321
         }
     ],
     "c2795b1ee237d746adbb8a96ee3739980928d091e21b9f08b1b58062dd400d46": [
@@ -1687,6 +1711,12 @@
             "distance": 34267,
             "duration": 3955,
             "duration_in_traffic": 3714
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830055",
+            "distance": 28177,
+            "duration": 3850,
+            "duration_in_traffic": 4383
         }
     ],
     "0ecfdbf7236e052b2351a5abc64b97281c3ea0d3a1bac1d9a1050ee566eceb9e": [
@@ -2025,6 +2055,12 @@
             "distance": 33886,
             "duration": 4856,
             "duration_in_traffic": 4793
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369851",
+            "distance": 51822,
+            "duration": 5150,
+            "duration_in_traffic": 5020
         }
     ],
     "37fa21d91f93b9759b00846725d10c79a5f398abac92351bc15cb80814a97439": [
@@ -2363,6 +2399,12 @@
             "distance": 25276,
             "duration": 3453,
             "duration_in_traffic": 3405
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071986",
+            "distance": 25276,
+            "duration": 3453,
+            "duration_in_traffic": 3530
         }
     ],
     "f89db10df71eda5a722a152198b0e7707669d8480ca7b9ec220bb4d45448db6e": [
@@ -2701,6 +2743,12 @@
             "distance": 14728,
             "duration": 2437,
             "duration_in_traffic": 2486
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369843",
+            "distance": 14728,
+            "duration": 2437,
+            "duration_in_traffic": 2375
         }
     ],
     "1ad80fdee73e55fab202cbc8fe773a23a56b542be96b33b9cad44c354e885836": [
@@ -3039,6 +3087,12 @@
             "distance": 16674,
             "duration": 2174,
             "duration_in_traffic": 2106
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303022",
+            "distance": 16674,
+            "duration": 2174,
+            "duration_in_traffic": 1923
         }
     ],
     "943f03b98d3da5259480404dd76b663906cb3692e7f0dac3fe0734fe7c94d41c": [
@@ -3377,6 +3431,12 @@
             "distance": 17490,
             "duration": 2473,
             "duration_in_traffic": 2697
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003308",
+            "distance": 17490,
+            "duration": 2473,
+            "duration_in_traffic": 2042
         }
     ],
     "324f4b65bb6d31e321fdf5d086a240b0ca231f2b1487fcc28221615bc9f26068": [
@@ -3715,6 +3775,12 @@
             "distance": 49579,
             "duration": 4647,
             "duration_in_traffic": 4318
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801986",
+            "distance": 49579,
+            "duration": 4647,
+            "duration_in_traffic": 4146
         }
     ],
     "d87a58e1df5ed17366df27f3b61f76fda5c7128abadb4b5196e5e55be141b901": [
@@ -4053,6 +4119,12 @@
             "distance": 16135,
             "duration": 2417,
             "duration_in_traffic": 3088
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590700",
+            "distance": 16135,
+            "duration": 2417,
+            "duration_in_traffic": 2394
         }
     ],
     "879f1554561cf93846cea3e66d8ec8d736323f0c8c1e4f54a81abce596d0b6b1": [
@@ -4391,6 +4463,12 @@
             "distance": 17593,
             "duration": 3240,
             "duration_in_traffic": 2747
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119346",
+            "distance": 17601,
+            "duration": 3241,
+            "duration_in_traffic": 3445
         }
     ],
     "d7d5f90d3f2e48063e9b8ef278d6263351aedefff0839140de54ced9430ed24b": [
@@ -4729,6 +4807,12 @@
             "distance": 18976,
             "duration": 2669,
             "duration_in_traffic": 2676
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746154",
+            "distance": 23900,
+            "duration": 3117,
+            "duration_in_traffic": 2974
         }
     ],
     "8dcb6f6c5c27f43286ff5888275210eca4260bd52bdcc47ebd062b912d8d2f74": [
@@ -5067,6 +5151,12 @@
             "distance": 38935,
             "duration": 3926,
             "duration_in_traffic": 3871
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119334",
+            "distance": 35953,
+            "duration": 4006,
+            "duration_in_traffic": 3984
         }
     ],
     "62d2a1c0599a2a7534c5aa077cf9a0c923aa49b474ed509b67715c6f5d4216e8": [
@@ -5405,6 +5495,12 @@
             "distance": 24870,
             "duration": 3943,
             "duration_in_traffic": 3828
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584681",
+            "distance": 23397,
+            "duration": 3748,
+            "duration_in_traffic": 3720
         }
     ],
     "714e0d1b7e75aede705035316ec5fa1ff14cceee33c420f9e6a64d3d936655da": [
@@ -5743,6 +5839,12 @@
             "distance": 20063,
             "duration": 2575,
             "duration_in_traffic": 2673
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590703",
+            "distance": 20063,
+            "duration": 2575,
+            "duration_in_traffic": 2782
         }
     ],
     "7ed62dd50212a004f7394bab853789de4fd6c35269944af28e20e26f576ceb15": [
@@ -6081,6 +6183,12 @@
             "distance": 12448,
             "duration": 2090,
             "duration_in_traffic": 2292
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287480",
+            "distance": 12448,
+            "duration": 2090,
+            "duration_in_traffic": 2056
         }
     ],
     "838d3cb655d5f99515ce94b6ab673d2cf073a8b4d0818521bbbc78bdd5d3792c": [
@@ -6419,6 +6527,12 @@
             "distance": 3197323,
             "duration": 412179,
             "duration_in_traffic": 405591
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590864",
+            "distance": 3224990,
+            "duration": 417901,
+            "duration_in_traffic": 428435
         }
     ],
     "2034a9d6a1e2bd5f89add37476752fb6758bd508520e366fa69343b28d948dd8": [
@@ -6757,6 +6871,12 @@
             "distance": 21872,
             "duration": 2127,
             "duration_in_traffic": 1925
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369870",
+            "distance": 21872,
+            "duration": 2127,
+            "duration_in_traffic": 1903
         }
     ],
     "cb8b5511fab33bdd3600fc948cccfeb67b0066ab66b6eb6580c5ad2e418a7076": [
@@ -7095,6 +7215,12 @@
             "distance": 15282,
             "duration": 2507,
             "duration_in_traffic": 2634
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646801",
+            "distance": 15282,
+            "duration": 2507,
+            "duration_in_traffic": 2749
         }
     ],
     "e032faecdb1e6969d501c0c57e93413db3dd60efb4a07e2c4a7bdaa8d2d639b0": [
@@ -7433,6 +7559,12 @@
             "distance": 29196,
             "duration": 3867,
             "duration_in_traffic": 3696
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287476",
+            "distance": 29281,
+            "duration": 4349,
+            "duration_in_traffic": 3891
         }
     ],
     "0b0c873a5bcfa1929f71bd9530644d009e8e010414af75ba3b2573149fa41299": [
@@ -7771,6 +7903,12 @@
             "distance": 49677,
             "duration": 5417,
             "duration_in_traffic": 4691
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003292",
+            "distance": 47567,
+            "duration": 5899,
+            "duration_in_traffic": 5289
         }
     ],
     "adb4210e3402304ae8eaad3df61643d2f8cb63e28ff2b804a932a002164866db": [
@@ -8109,6 +8247,12 @@
             "distance": 12274,
             "duration": 2032,
             "duration_in_traffic": 2261
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119330",
+            "distance": 12274,
+            "duration": 2032,
+            "duration_in_traffic": 2180
         }
     ],
     "43bb2af20e3675a7079701159530c0be2aaece0b2331e9aa4da9196962a39b4c": [
@@ -8447,6 +8591,12 @@
             "distance": 34006,
             "duration": 3883,
             "duration_in_traffic": 4330
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369820",
+            "distance": 34006,
+            "duration": 3883,
+            "duration_in_traffic": 4129
         }
     ],
     "033bd323e923a6f1139074a98d292dda07f2d4983fa658f274fd15da1cf63674": [
@@ -8785,6 +8935,12 @@
             "distance": 37313,
             "duration": 4573,
             "duration_in_traffic": 4724
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303018",
+            "distance": 42460,
+            "duration": 4697,
+            "duration_in_traffic": 6220
         }
     ],
     "63bf15ffa5bad2610ff83b2bc233e7cecf5379ad1ba53e9e55e756b0862133f4": [
@@ -9123,6 +9279,12 @@
             "distance": 23581,
             "duration": 3446,
             "duration_in_traffic": 3976
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071982",
+            "distance": 23581,
+            "duration": 3446,
+            "duration_in_traffic": 4236
         }
     ],
     "08a9048215fa42c447b3e8444dc9a041e8f63e451cf8c6957cf1fa48517f49bf": [
@@ -9461,6 +9623,12 @@
             "distance": 26717,
             "duration": 2371,
             "duration_in_traffic": 2215
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830064",
+            "distance": 26717,
+            "duration": 2371,
+            "duration_in_traffic": 2098
         }
     ],
     "5fba5cb6ca1b84a8cf4b64de1b10ffcb2078fad0d505403a6d65a687e63b82b9": [
@@ -9799,6 +9967,12 @@
             "distance": 15733,
             "duration": 1979,
             "duration_in_traffic": 1796
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071955",
+            "distance": 15837,
+            "duration": 1957,
+            "duration_in_traffic": 2067
         }
     ],
     "32b709f6d18106409311c5b80bf4cc1b9f6176569ed8b7136d867742ad873bd9": [
@@ -10137,6 +10311,12 @@
             "distance": 24862,
             "duration": 2556,
             "duration_in_traffic": 2503
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287484",
+            "distance": 24862,
+            "duration": 2556,
+            "duration_in_traffic": 2807
         }
     ],
     "4f39b4948a8210ae9dd6f32bb910102673472a06909f5fba7efd073cbadfdd99": [
@@ -10475,6 +10655,12 @@
             "distance": 32103,
             "duration": 4226,
             "duration_in_traffic": 4052
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746150",
+            "distance": 32844,
+            "duration": 4440,
+            "duration_in_traffic": 4475
         }
     ],
     "b2780193b394b10600f97836efe37e5d99e45176bed3b0806ba5fff27f58fffb": [
@@ -10813,6 +10999,12 @@
             "distance": 21611,
             "duration": 3930,
             "duration_in_traffic": 3800
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071960",
+            "distance": 20359,
+            "duration": 3821,
+            "duration_in_traffic": 4020
         }
     ],
     "c112e90fdff1a47db9e74524ebe17823d4cc56ece50f51a3f0989a8ee20b03e4": [
@@ -11151,6 +11343,12 @@
             "distance": 14897,
             "duration": 2435,
             "duration_in_traffic": 2336
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071964",
+            "distance": 14897,
+            "duration": 2435,
+            "duration_in_traffic": 2181
         }
     ],
     "21d65dcf50448ce066c74a1c740f89e1c293b3bdb3da7ba627ffff2be353d724": [
@@ -11489,6 +11687,12 @@
             "distance": 11527,
             "duration": 1721,
             "duration_in_traffic": 1648
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119353",
+            "distance": 11527,
+            "duration": 1721,
+            "duration_in_traffic": 1638
         }
     ],
     "36ca25ebce0cd00db987be4d062304fee01253ba1addf88865610e5aef6f056d": [
@@ -11827,6 +12031,12 @@
             "distance": 26269,
             "duration": 2823,
             "duration_in_traffic": 2750
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303039",
+            "distance": 21568,
+            "duration": 3198,
+            "duration_in_traffic": 2860
         }
     ],
     "55015615273a9bca476bbaf4736d79551fa22dd420664b9ff06139e7e1954df7": [
@@ -12165,6 +12375,12 @@
             "distance": 32566,
             "duration": 3907,
             "duration_in_traffic": 3646
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003312",
+            "distance": 33680,
+            "duration": 4241,
+            "duration_in_traffic": 3863
         }
     ],
     "e4f13a9d37794d9fc3c6929ca37028b895815400be3d4ff1c9962cef8af4cd3c": [
@@ -12503,6 +12719,12 @@
             "distance": 32569,
             "duration": 4864,
             "duration_in_traffic": 4521
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584677",
+            "distance": 32571,
+            "duration": 4900,
+            "duration_in_traffic": 4849
         }
     ],
     "ed5258ca9aff615c91c2fc46da4b55ac4526ee0b5dc408eb108e5a19381bdc85": [
@@ -12841,6 +13063,12 @@
             "distance": 24600,
             "duration": 3128,
             "duration_in_traffic": 2918
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287487",
+            "distance": 24600,
+            "duration": 3128,
+            "duration_in_traffic": 3210
         }
     ],
     "2e46696949fe66086f5fa5dd521bde53b068d7041f885c480f95abf5cab0d0a4": [
@@ -13179,6 +13407,12 @@
             "distance": 10395,
             "duration": 1478,
             "duration_in_traffic": 1451
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287457",
+            "distance": 7358,
+            "duration": 1415,
+            "duration_in_traffic": 1299
         }
     ],
     "150174422380c7530ab08b9a5927aafa8c6747139da5297d0a85d9f5bdc0769a": [
@@ -13517,6 +13751,12 @@
             "distance": 23143,
             "duration": 3499,
             "duration_in_traffic": 3266
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003288",
+            "distance": 23150,
+            "duration": 3470,
+            "duration_in_traffic": 3754
         }
     ],
     "d0738289cfef86d5f8ec11703cb78808a34295607fd1fe2358ccd76bcbd348ff": [
@@ -13855,6 +14095,12 @@
             "distance": 17088,
             "duration": 2019,
             "duration_in_traffic": 1999
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584685",
+            "distance": 17088,
+            "duration": 2019,
+            "duration_in_traffic": 1837
         }
     ],
     "8b73632d626d0472195ce02319e16381bf5a36e4128593dd32cde8d1a1bbe91d": [
@@ -14193,6 +14439,12 @@
             "distance": 19252,
             "duration": 2620,
             "duration_in_traffic": 2501
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369855",
+            "distance": 19252,
+            "duration": 2620,
+            "duration_in_traffic": 2575
         }
     ],
     "62b702d6021712129951f1866243b32f4cca2ce89e124610444c894e60beb26c": [
@@ -14531,6 +14783,12 @@
             "distance": 35690,
             "duration": 4578,
             "duration_in_traffic": 4255
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746134",
+            "distance": 40487,
+            "duration": 4670,
+            "duration_in_traffic": 4442
         }
     ],
     "0040ac872c26f90bf1a20900babd26679663402b5ce00898da7596638fe5cdcd": [
@@ -14869,6 +15127,12 @@
             "distance": 23916,
             "duration": 3134,
             "duration_in_traffic": 3157
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646828",
+            "distance": 23916,
+            "duration": 3134,
+            "duration_in_traffic": 3257
         }
     ],
     "51d3fa4c3d7e83eb114eb9ccce61011326ae30556e47a810860e80056506918d": [
@@ -15207,6 +15471,12 @@
             "distance": 17264,
             "duration": 3394,
             "duration_in_traffic": 3111
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287473",
+            "distance": 19136,
+            "duration": 3265,
+            "duration_in_traffic": 3812
         }
     ],
     "75b2bb7a2d7ef86c505000badf236e8a79aaf95d77b7073899e39cc8eb030643": [
@@ -15545,6 +15815,12 @@
             "distance": 24141,
             "duration": 3112,
             "duration_in_traffic": 3767
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590715",
+            "distance": 24141,
+            "duration": 3112,
+            "duration_in_traffic": 3306
         }
     ],
     "c6007e2cef07900c71feba53d5fe396186340129e5543bad144ae22f353c9044": [
@@ -15883,6 +16159,12 @@
             "distance": 21362,
             "duration": 3752,
             "duration_in_traffic": 3735
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071972",
+            "distance": 21969,
+            "duration": 3788,
+            "duration_in_traffic": 4299
         }
     ],
     "7bb715c44cb1ac346217b66f9b33dbeb599cfe090adcb0a10a457c4bb4cad064": [
@@ -16221,6 +16503,12 @@
             "distance": 17659,
             "duration": 2063,
             "duration_in_traffic": 2109
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830041",
+            "distance": 17659,
+            "duration": 2063,
+            "duration_in_traffic": 2526
         }
     ],
     "5f029a24e037338dd592112e621657b1b2dce1d36f9a5e552df4148573937946": [
@@ -16559,6 +16847,12 @@
             "distance": 26920,
             "duration": 3755,
             "duration_in_traffic": 4025
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071979",
+            "distance": 26920,
+            "duration": 3755,
+            "duration_in_traffic": 4079
         }
     ],
     "db9707e787f2c3c01a06c5b62e9305d61c65cbbb22c65a5869fb89d80fc5b2da": [
@@ -16897,6 +17191,12 @@
             "distance": 15579,
             "duration": 1802,
             "duration_in_traffic": 1860
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830060",
+            "distance": 15579,
+            "duration": 1802,
+            "duration_in_traffic": 1787
         }
     ],
     "fc3d1ab7d0216451617e6e23bd8249e4aa9a26232bb215183f9f8686c9e7f7f8": [
@@ -17235,6 +17535,12 @@
             "distance": 17071,
             "duration": 2351,
             "duration_in_traffic": 2210
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119325",
+            "distance": 17071,
+            "duration": 2351,
+            "duration_in_traffic": 2514
         }
     ],
     "2a6550ae7946390f904c2ce97568dfdd7cc2559f68096434e80f1b3960383f8e": [
@@ -17573,6 +17879,12 @@
             "distance": 12253,
             "duration": 2089,
             "duration_in_traffic": 2417
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071942",
+            "distance": 12253,
+            "duration": 2089,
+            "duration_in_traffic": 2734
         }
     ],
     "8abc19ef2263ccb6059dd9943572af22fc552f3924ece32934809fa39460bc42": [
@@ -17911,6 +18223,12 @@
             "distance": 20640,
             "duration": 3794,
             "duration_in_traffic": 3827
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746130",
+            "distance": 20624,
+            "duration": 3849,
+            "duration_in_traffic": 4243
         }
     ],
     "16e17e870fda89147c43052dbcad6c99dc9467029cf971017d2c3eec617f3fbb": [
@@ -18249,6 +18567,12 @@
             "distance": 23900,
             "duration": 2524,
             "duration_in_traffic": 2328
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590708",
+            "distance": 23900,
+            "duration": 2524,
+            "duration_in_traffic": 2246
         }
     ],
     "1bf37e14e2d153e1e5b0ab40cffe262a996f9532ec1472fe53c739dcc6418ff1": [
@@ -18587,6 +18911,12 @@
             "distance": 32785,
             "duration": 3741,
             "duration_in_traffic": 3597
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830072",
+            "distance": 32785,
+            "duration": 3741,
+            "duration_in_traffic": 4312
         }
     ],
     "35f0ce55a6de89ab8e44f2e9a0da9eb6ea91b98d98c49b5bd9d1ab4a00346290": [
@@ -18925,6 +19255,12 @@
             "distance": 6401,
             "duration": 1196,
             "duration_in_traffic": 1378
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746142",
+            "distance": 6401,
+            "duration": 1196,
+            "duration_in_traffic": 1078
         }
     ],
     "5515c5da66ceac3d33a7e92cb208afe35418bde0e236bc95bbe2829664e8937c": [
@@ -19263,6 +19599,12 @@
             "distance": 15600,
             "duration": 2486,
             "duration_in_traffic": 2542
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287469",
+            "distance": 17292,
+            "duration": 2929,
+            "duration_in_traffic": 3427
         }
     ],
     "e160f0d8849cc9bb8e9295850fdf0b9ae32184f44e74e90b1b2f55209633f327": [
@@ -19601,6 +19943,12 @@
             "distance": 21020,
             "duration": 3145,
             "duration_in_traffic": 2799
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830075",
+            "distance": 21322,
+            "duration": 3201,
+            "duration_in_traffic": 3476
         }
     ],
     "b7b8aafc76216f04423b2be69cd265edd1b48bb7a164825ad35816100c57c54c": [
@@ -19939,6 +20287,12 @@
             "distance": 26897,
             "duration": 3820,
             "duration_in_traffic": 3959
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801982",
+            "distance": 26897,
+            "duration": 3820,
+            "duration_in_traffic": 3708
         }
     ],
     "38a5a35e3f276e81c84e16342486e45c3c5aadbfd3347e94f5dcbf7c668bd5ba": [
@@ -20277,6 +20631,12 @@
             "distance": 28476,
             "duration": 3333,
             "duration_in_traffic": 2961
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003279",
+            "distance": 28483,
+            "duration": 3303,
+            "duration_in_traffic": 3485
         }
     ],
     "b17d9e75358b3de28f711cbe2bd739ecdf7b346a0911a52ac88c166cf2f48a46": [
@@ -20615,6 +20975,12 @@
             "distance": 42187,
             "duration": 3231,
             "duration_in_traffic": 2989
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830090",
+            "distance": 42187,
+            "duration": 3231,
+            "duration_in_traffic": 2920
         }
     ],
     "d21b486970900a43660a12418d572f8f6b46b167a66e7a6da439fcbf23aa6879": [
@@ -20953,6 +21319,12 @@
             "distance": 31331,
             "duration": 3533,
             "duration_in_traffic": 3319
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287452",
+            "distance": 31280,
+            "duration": 3460,
+            "duration_in_traffic": 4527
         }
     ],
     "5cb74dc3124ce71ae9fd7ac2c0583d943640501c00287e378165bc06a54acdfe": [
@@ -21291,6 +21663,12 @@
             "distance": 25173,
             "duration": 3414,
             "duration_in_traffic": 3060
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646832",
+            "distance": 25182,
+            "duration": 3414,
+            "duration_in_traffic": 3344
         }
     ],
     "f4ce451385c6eea6406c4e349dbefbac60ca6b28a4fad66cb09888b4cab97452": [
@@ -21629,6 +22007,12 @@
             "distance": 18685,
             "duration": 2727,
             "duration_in_traffic": 2682
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746146",
+            "distance": 15027,
+            "duration": 2956,
+            "duration_in_traffic": 3016
         }
     ],
     "ec92c33acfd9e405656b5961a87180d14ebe9d11517a29013241d3181df33029": [
@@ -21967,6 +22351,12 @@
             "distance": 16213,
             "duration": 1907,
             "duration_in_traffic": 2573
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590730",
+            "distance": 16213,
+            "duration": 1907,
+            "duration_in_traffic": 1878
         }
     ],
     "851c52fa26f2d77c6d0b1e5a6366250bfb0843b85425a134d9ced1a9b5026812": [
@@ -22305,6 +22695,12 @@
             "distance": 26653,
             "duration": 2897,
             "duration_in_traffic": 2648
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830079",
+            "distance": 26653,
+            "duration": 2897,
+            "duration_in_traffic": 2642
         }
     ],
     "028f5e13785fb927b227f02de548f3b85c2bae0538b81bf58353a5add1e475bf": [
@@ -22643,6 +23039,12 @@
             "distance": 15589,
             "duration": 2136,
             "duration_in_traffic": 2023
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119342",
+            "distance": 16489,
+            "duration": 2228,
+            "duration_in_traffic": 2129
         }
     ],
     "644d94aeba178d8c05c81a436e7e60cfbcb0a30349fb8bb241a1db5048560e3e": [
@@ -22981,6 +23383,12 @@
             "distance": 31188,
             "duration": 5070,
             "duration_in_traffic": 4765
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801997",
+            "distance": 31188,
+            "duration": 5070,
+            "duration_in_traffic": 5235
         }
     ],
     "b3488312354eb0c5b91797af143b69778dc8de190464cb77117b0c942ec369b7": [
@@ -23319,6 +23727,12 @@
             "distance": 11032,
             "duration": 2023,
             "duration_in_traffic": 1898
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584669",
+            "distance": 11032,
+            "duration": 2023,
+            "duration_in_traffic": 1960
         }
     ],
     "cd015974f7d15b48a0c6c094bb44062f4f877b5b01f2540a7f8c87eff72c4cdd": [
@@ -23657,6 +24071,12 @@
             "distance": 28987,
             "duration": 3420,
             "duration_in_traffic": 3477
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830083",
+            "distance": 23264,
+            "duration": 3708,
+            "duration_in_traffic": 3560
         }
     ],
     "1b452e75413b507257f28183bd8360a8b91468f30bc5a431ca176e81c7f7ee54": [
@@ -23995,6 +24415,12 @@
             "distance": 10065,
             "duration": 2246,
             "duration_in_traffic": 1950
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071975",
+            "distance": 11173,
+            "duration": 2219,
+            "duration_in_traffic": 2227
         }
     ],
     "feaaa0078b159da2052155e22af08d2ce12e9e20898da8e6fe2ba2a8baefda00": [
@@ -24333,6 +24759,12 @@
             "distance": 15033,
             "duration": 2329,
             "duration_in_traffic": 2486
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646813",
+            "distance": 14950,
+            "duration": 2312,
+            "duration_in_traffic": 2656
         }
     ],
     "2b540c618d278203577be435a6704d152087c2c5979d10e813a9ad2bc1ab8841": [
@@ -24671,6 +25103,12 @@
             "distance": 33241,
             "duration": 3737,
             "duration_in_traffic": 3501
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303003",
+            "distance": 32911,
+            "duration": 4149,
+            "duration_in_traffic": 4484
         }
     ],
     "673f5c95fc343601523089bb4ea532ce85921f2d816bd8aa99f8221051fa513a": [
@@ -25009,6 +25447,12 @@
             "distance": 31275,
             "duration": 4001,
             "duration_in_traffic": 3771
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119360",
+            "distance": 31275,
+            "duration": 4001,
+            "duration_in_traffic": 4260
         }
     ],
     "4690d7d8ffdfe9d76c5966afa1f5133f3372b42980c4b3cfbfb3d1fd9e4ec2f2": [
@@ -25347,6 +25791,12 @@
             "distance": 6788,
             "duration": 1387,
             "duration_in_traffic": 1396
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.071968",
+            "distance": 7026,
+            "duration": 1391,
+            "duration_in_traffic": 1414
         }
     ],
     "717e19b261e210dec1d4f224b0e149df12f787dd55b6b64a7092251175f57a0a": [
@@ -25685,6 +26135,12 @@
             "distance": 22430,
             "duration": 3085,
             "duration_in_traffic": 2858
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584651",
+            "distance": 22430,
+            "duration": 3085,
+            "duration_in_traffic": 3213
         }
     ],
     "3b0c77d7c37ec07c2bdaddd8ba3884468f55afdd4356b5c43d1cdef60b27a40e": [
@@ -26023,6 +26479,12 @@
             "distance": 21119,
             "duration": 3413,
             "duration_in_traffic": 4291
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590711",
+            "distance": 18827,
+            "duration": 3432,
+            "duration_in_traffic": 3485
         }
     ],
     "36f2b3df85bcdbe360899f0f293711ca1c8cbb8900cd18617cf936b4453bd9db": [
@@ -26361,6 +26823,12 @@
             "distance": 22734,
             "duration": 3526,
             "duration_in_traffic": 3269
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646809",
+            "distance": 22734,
+            "duration": 3526,
+            "duration_in_traffic": 3412
         }
     ],
     "df92f665ddf7fcebb73c67f725ee77eb98f1510018b0c8358b6c031d2e68f238": [
@@ -26699,6 +27167,12 @@
             "distance": 18141,
             "duration": 2071,
             "duration_in_traffic": 2083
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746158",
+            "distance": 16587,
+            "duration": 2216,
+            "duration_in_traffic": 2036
         }
     ],
     "f2d2081805d5ed23aa44f21b71d356ccbf5d8547fb956b52adad16f9d6d775d1": [
@@ -27037,6 +27511,12 @@
             "distance": 49164,
             "duration": 4672,
             "duration_in_traffic": 4483
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369859",
+            "distance": 49164,
+            "duration": 4672,
+            "duration_in_traffic": 4358
         }
     ],
     "2a27e959c8bb643dd88f2379a51a7deb72267c3d1065a88d73b2a62bdc43a2a9": [
@@ -27375,6 +27855,12 @@
             "distance": 27812,
             "duration": 2736,
             "duration_in_traffic": 2768
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369834",
+            "distance": 27812,
+            "duration": 2736,
+            "duration_in_traffic": 2617
         }
     ],
     "7192b5abe92b039763af770c02579877deddea69f0526a815d6bb755260ef3a8": [
@@ -27713,6 +28199,12 @@
             "distance": 31537,
             "duration": 3429,
             "duration_in_traffic": 3189
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119357",
+            "distance": 31537,
+            "duration": 3429,
+            "duration_in_traffic": 3792
         }
     ],
     "c2aa3a0ed32fe05a4e8aa4039926e3d6e367507332bf164ca835315c3fa7d9a7": [
@@ -28051,6 +28543,12 @@
             "distance": 46072,
             "duration": 5377,
             "duration_in_traffic": 5256
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.802005",
+            "distance": 45783,
+            "duration": 5505,
+            "duration_in_traffic": 5187
         }
     ],
     "d7d8f1da4c950d3398031db6d0fc6d908a90d9d3d1c38c232c55f6b4c17052f6": [
@@ -28389,6 +28887,12 @@
             "distance": 17604,
             "duration": 2426,
             "duration_in_traffic": 2465
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119349",
+            "distance": 18139,
+            "duration": 2439,
+            "duration_in_traffic": 2118
         }
     ],
     "6aa156b352a0139326b4c5b0e8ee94d90902018b187cd6520c03ea0895c913b7": [
@@ -28727,6 +29231,12 @@
             "distance": 45334,
             "duration": 5240,
             "duration_in_traffic": 5716
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369863",
+            "distance": 45334,
+            "duration": 5240,
+            "duration_in_traffic": 5436
         }
     ],
     "695b65cfcaac751c2e36aff25682cdbeb8714c71feb7e7b4dbeec6ba0342c596": [
@@ -29065,6 +29575,12 @@
             "distance": 7384,
             "duration": 1261,
             "duration_in_traffic": 1230
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119338",
+            "distance": 7384,
+            "duration": 1261,
+            "duration_in_traffic": 1364
         }
     ],
     "ec9cb843fcc8ecff9d038fc9ea40816a9c3653704102328f041f6c99f4d29c3a": [
@@ -29403,6 +29919,12 @@
             "distance": 45182,
             "duration": 3966,
             "duration_in_traffic": 4014
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590695",
+            "distance": 45182,
+            "duration": 3966,
+            "duration_in_traffic": 3934
         }
     ],
     "0c798f455d45933606578c4627b07dc54770299643ff9cae596b88f22eaa5575": [
@@ -29741,6 +30263,12 @@
             "distance": 9120,
             "duration": 1875,
             "duration_in_traffic": 2414
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590719",
+            "distance": 9120,
+            "duration": 1875,
+            "duration_in_traffic": 1668
         }
     ],
     "157775a42ca06c83f3392e042b7c18b5de943fb0fc6c35ab6b8163f33c43826e": [
@@ -30079,6 +30607,12 @@
             "distance": 34894,
             "duration": 3993,
             "duration_in_traffic": 3808
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303050",
+            "distance": 34092,
+            "duration": 4296,
+            "duration_in_traffic": 4016
         }
     ],
     "6e94a115c431957111e2073dad57d2d4e6c024a9009ecfb6eb90aa1a79cb72ff": [
@@ -30417,6 +30951,12 @@
             "distance": 33602,
             "duration": 4112,
             "duration_in_traffic": 4469
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801993",
+            "distance": 33602,
+            "duration": 4112,
+            "duration_in_traffic": 3762
         }
     ],
     "80f156ac22a24328a71138d8d5d84e4bc1b3d3960b2c6fb75a6eff640d5900a6": [
@@ -30755,6 +31295,12 @@
             "distance": 13001,
             "duration": 1366,
             "duration_in_traffic": 1254
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830068",
+            "distance": 13001,
+            "duration": 1366,
+            "duration_in_traffic": 1581
         }
     ],
     "bd38245139b1796f365c7728d409802fa49c3a32b36794d20861dd8e25bd1ba8": [
@@ -31093,6 +31639,12 @@
             "distance": 18100,
             "duration": 2829,
             "duration_in_traffic": 2636
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003284",
+            "distance": 18100,
+            "duration": 2829,
+            "duration_in_traffic": 2733
         }
     ],
     "7f351905b765a1c440afcff8750cfd56d746f5510a702be21fc420d05fb12f46": [
@@ -31431,6 +31983,12 @@
             "distance": 10097,
             "duration": 2050,
             "duration_in_traffic": 1990
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584661",
+            "distance": 9892,
+            "duration": 2160,
+            "duration_in_traffic": 2018
         }
     ],
     "453b2021e07c802c5f36785b260702ae6edac787007ccf834be078295aef80b7": [
@@ -31769,6 +32327,12 @@
             "distance": 11562,
             "duration": 1854,
             "duration_in_traffic": 1646
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003266",
+            "distance": 12117,
+            "duration": 1988,
+            "duration_in_traffic": 2095
         }
     ],
     "0ede047a860ac756bd69c7ed4b186d62ed0ee31ee6707e7dd7f220b4371ff442": [
@@ -32107,6 +32671,12 @@
             "distance": 32312,
             "duration": 4480,
             "duration_in_traffic": 4199
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003316",
+            "distance": 32304,
+            "duration": 4479,
+            "duration_in_traffic": 4634
         }
     ],
     "79f48516148b15db442f0eb4ca7b2185a6df8a215c239507f98f6d3b7e7b5f03": [
@@ -32445,6 +33015,12 @@
             "distance": 17265,
             "duration": 2507,
             "duration_in_traffic": 2393
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646825",
+            "distance": 17265,
+            "duration": 2507,
+            "duration_in_traffic": 2666
         }
     ],
     "b71c61c448f29235e49f63fe70adb554c91b7fe0ddc3455a5d757d719728ae5c": [
@@ -32783,6 +33359,12 @@
             "distance": 10264,
             "duration": 2135,
             "duration_in_traffic": 1790
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646817",
+            "distance": 10264,
+            "duration": 2135,
+            "duration_in_traffic": 2037
         }
     ],
     "18fa3d0b9286a45b79971f7329afefb32dbeea7c9bfcd5fb5c595b7f301aa362": [
@@ -33121,6 +33703,12 @@
             "distance": 31114,
             "duration": 4025,
             "duration_in_traffic": 4493
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590682",
+            "distance": 25017,
+            "duration": 3961,
+            "duration_in_traffic": 4479
         }
     ],
     "146b148c91b112ab1e6a8258033c78bd20b31ab12d02df782847c8e453ce7cc0": [
@@ -33459,6 +34047,12 @@
             "distance": 13573,
             "duration": 1371,
             "duration_in_traffic": 1296
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646797",
+            "distance": 13573,
+            "duration": 1371,
+            "duration_in_traffic": 1424
         }
     ],
     "1dae163e1c57347910ff539adc72eb88f6941111743918691747d9408f9e345c": [
@@ -33797,6 +34391,12 @@
             "distance": 29734,
             "duration": 4785,
             "duration_in_traffic": 4282
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287465",
+            "distance": 46396,
+            "duration": 5134,
+            "duration_in_traffic": 5055
         }
     ],
     "7eaf2da02eb42f6410953978526adb0adc1d32948e4bb79279107859935ab9fd": [
@@ -34135,6 +34735,12 @@
             "distance": 65049,
             "duration": 5506,
             "duration_in_traffic": 5115
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.802008",
+            "distance": 65049,
+            "duration": 5506,
+            "duration_in_traffic": 5022
         }
     ],
     "cba9594cafaf2605811ecd3f70876930c34867afe3f8093297d5a57c97ec0f0a": [
@@ -34473,6 +35079,12 @@
             "distance": 17879,
             "duration": 2643,
             "duration_in_traffic": 2522
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746162",
+            "distance": 18690,
+            "duration": 2664,
+            "duration_in_traffic": 2572
         }
     ],
     "88c00645b9d6e0abf5804216955ff4219c845da59b84754e9be039d9a2c21d90": [
@@ -34811,6 +35423,12 @@
             "distance": 22533,
             "duration": 4119,
             "duration_in_traffic": 3928
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003304",
+            "distance": 22541,
+            "duration": 4119,
+            "duration_in_traffic": 4661
         }
     ],
     "ec323766017ffb814a638bc38b795dd27779e784d964a6b715e1fe8291e1e393": [
@@ -35149,6 +35767,12 @@
             "distance": 27576,
             "duration": 3923,
             "duration_in_traffic": 3909
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303026",
+            "distance": 36405,
+            "duration": 4484,
+            "duration_in_traffic": 4970
         }
     ],
     "d43b2137c40701000c8231c1fde4af5c47edf54a8aeb21018e272c5873c3ada3": [
@@ -35487,6 +36111,12 @@
             "distance": 17483,
             "duration": 2577,
             "duration_in_traffic": 2431
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584657",
+            "distance": 17483,
+            "duration": 2577,
+            "duration_in_traffic": 2253
         }
     ],
     "ccd0c60bd2ee189a5f1abd3eb07eeedc96c4218cddcd8b61b1dd9b993c76a263": [
@@ -35825,6 +36455,12 @@
             "distance": 18445,
             "duration": 2426,
             "duration_in_traffic": 2305
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303053",
+            "distance": 18445,
+            "duration": 2426,
+            "duration_in_traffic": 2851
         }
     ],
     "a29026eac8c5d6274512646137e1ed1e15d9e73fc7418f05840d0cad0bc246a6": [
@@ -36163,6 +36799,12 @@
             "distance": 17198,
             "duration": 1820,
             "duration_in_traffic": 1805
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003300",
+            "distance": 16663,
+            "duration": 1783,
+            "duration_in_traffic": 1795
         }
     ],
     "e3a58491d38e0145380213d904a797d3f4e645908b950cfe83de3a0da8043029": [
@@ -36501,6 +37143,12 @@
             "distance": 8188,
             "duration": 1508,
             "duration_in_traffic": 1491
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646805",
+            "distance": 7180,
+            "duration": 1487,
+            "duration_in_traffic": 1424
         }
     ],
     "17a656a78c4f01b3e3c965d9721018a0aace8ba0653287d8525f793bc5a79444": [
@@ -36839,6 +37487,12 @@
             "distance": 18671,
             "duration": 3073,
             "duration_in_traffic": 2820
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584637",
+            "distance": 18671,
+            "duration": 3073,
+            "duration_in_traffic": 3034
         }
     ],
     "e9a748a67d8d272b6dfb45df4ad2ba9ad3d30079f6aa7c68dd3d3119974980ac": [
@@ -37177,6 +37831,12 @@
             "distance": 10004,
             "duration": 1919,
             "duration_in_traffic": 1699
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584689",
+            "distance": 10004,
+            "duration": 1919,
+            "duration_in_traffic": 1645
         }
     ],
     "734e5d5a17ec470a667de55460ab6a91b04b598cecd91cd68a969d7bc9f84c2c": [
@@ -37515,6 +38175,12 @@
             "distance": 22006,
             "duration": 3049,
             "duration_in_traffic": 3138
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801990",
+            "distance": 22006,
+            "duration": 3049,
+            "duration_in_traffic": 3050
         }
     ],
     "d907f7418d4883bc9382a69d895aa17da78794fbca59d9c1f1e0ccb473fdaf8d": [
@@ -37853,6 +38519,12 @@
             "distance": 10016,
             "duration": 1574,
             "duration_in_traffic": 1629
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646784",
+            "distance": 7213,
+            "duration": 1291,
+            "duration_in_traffic": 1500
         }
     ],
     "ee73a910b0f0c043fd205fa4e451ac3ff1606111fd7bace5967eaf424dd341ab": [
@@ -38191,6 +38863,12 @@
             "distance": 31605,
             "duration": 4299,
             "duration_in_traffic": 4334
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801978",
+            "distance": 31605,
+            "duration": 4299,
+            "duration_in_traffic": 4043
         }
     ],
     "a15421f24045c39486f5bd7d5fd1f5d8fee6725184a080f753d1092c4bb20afd": [
@@ -38529,6 +39207,12 @@
             "distance": 34237,
             "duration": 3892,
             "duration_in_traffic": 3666
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746125",
+            "distance": 29373,
+            "duration": 4099,
+            "duration_in_traffic": 4593
         }
     ],
     "d73533c2bbc24a5c6f2bbf97d4e6ef77c24fad6b29e5e1d0ee50ba5159a55961": [
@@ -38867,6 +39551,12 @@
             "distance": 18252,
             "duration": 2728,
             "duration_in_traffic": 2367
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.003296",
+            "distance": 18483,
+            "duration": 2724,
+            "duration_in_traffic": 3001
         }
     ],
     "7525b1d1cea7f7905d999708c011235b2babcdbda1f1db8aee0f908b9a97c7de": [
@@ -39205,6 +39895,12 @@
             "distance": 25579,
             "duration": 3650,
             "duration_in_traffic": 3393
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369847",
+            "distance": 34153,
+            "duration": 3511,
+            "duration_in_traffic": 3754
         }
     ],
     "8546330244bb8be70625135609d3fa606e6b1ae0bf1b6c03f5a010b8d7916116": [
@@ -39543,6 +40239,12 @@
             "distance": 17278,
             "duration": 2363,
             "duration_in_traffic": 2239
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746112",
+            "distance": 18159,
+            "duration": 2499,
+            "duration_in_traffic": 2932
         }
     ],
     "57b84f3ed85db565e8dfeb2be72e8cbf353752dbcb2d2cec49038684aa193e0e": [
@@ -39881,6 +40583,12 @@
             "distance": 16952,
             "duration": 2341,
             "duration_in_traffic": 2531
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.802001",
+            "distance": 16952,
+            "duration": 2341,
+            "duration_in_traffic": 2065
         }
     ],
     "a26f057449c4679a61ebf555730274dcb367da72a9d3599ec3f3f6c006bf45f5": [
@@ -40219,6 +40927,12 @@
             "distance": 18287,
             "duration": 2603,
             "duration_in_traffic": 2707
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.801959",
+            "distance": 18287,
+            "duration": 2603,
+            "duration_in_traffic": 2525
         }
     ],
     "fb371190477ed9d904bd987c679035d600a68060221ed0e09729e6b4dbe661b1": [
@@ -40557,6 +41271,12 @@
             "distance": 32722,
             "duration": 4231,
             "duration_in_traffic": 4862
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.590727",
+            "distance": 32722,
+            "duration": 4231,
+            "duration_in_traffic": 4647
         }
     ],
     "d97b6f6fbf7c029da47f57f6933e9bb89a59681e267579faf6f1768a75e7b2b8": [
@@ -40895,6 +41615,12 @@
             "distance": 43815,
             "duration": 4455,
             "duration_in_traffic": 4294
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369838",
+            "distance": 43815,
+            "duration": 4455,
+            "duration_in_traffic": 4236
         }
     ],
     "204e376324662a54a799f0160cb7652c1061221b596f4c2cc3b253f6b9722716": [
@@ -41233,6 +41959,12 @@
             "distance": 16019,
             "duration": 2752,
             "duration_in_traffic": 2585
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.746138",
+            "distance": 16019,
+            "duration": 2752,
+            "duration_in_traffic": 3150
         }
     ],
     "dca00e1dd5e84cf85ad78c37e0d2573855ed43bb14b72b46181fa0d45d50806d": [
@@ -41571,6 +42303,12 @@
             "distance": 14673,
             "duration": 2474,
             "duration_in_traffic": 2329
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584665",
+            "distance": 14673,
+            "duration": 2474,
+            "duration_in_traffic": 2177
         }
     ],
     "cf283d6556e13b0d8df9190c1b234783cf4f3f45a6139c828be52cb62559e9a8": [
@@ -41909,6 +42647,12 @@
             "distance": 43893,
             "duration": 3945,
             "duration_in_traffic": 3873
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.369867",
+            "distance": 43893,
+            "duration": 3945,
+            "duration_in_traffic": 3587
         }
     ],
     "f4624af8d4c6a466cf6312c3e897e23c0ccc41d3580dc5f76f0052482e017c0c": [
@@ -42247,6 +42991,12 @@
             "distance": 36256,
             "duration": 4361,
             "duration_in_traffic": 4146
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303031",
+            "distance": 36256,
+            "duration": 4361,
+            "duration_in_traffic": 4751
         }
     ],
     "5c860b2d1f6efb10253e0938c039c6a49f04dbfa3651378641cff320d387ebe5": [
@@ -42585,6 +43335,12 @@
             "distance": 35855,
             "duration": 3648,
             "duration_in_traffic": 3315
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.646821",
+            "distance": 22050,
+            "duration": 2992,
+            "duration_in_traffic": 2697
         }
     ],
     "b8469807c3adb2877cd4fa3d9d230830a2b8955897069474e60b835c49e8b7f6": [
@@ -42923,6 +43679,12 @@
             "distance": 14372,
             "duration": 2004,
             "duration_in_traffic": 1943
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.287439",
+            "distance": 15252,
+            "duration": 2140,
+            "duration_in_traffic": 2461
         }
     ],
     "c93f3d668906b8f01c36110095588dac093c8c1c5f71337205bb7b0769b335bc": [
@@ -43261,6 +44023,12 @@
             "distance": 35007,
             "duration": 4197,
             "duration_in_traffic": 4250
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.830087",
+            "distance": 36357,
+            "duration": 4255,
+            "duration_in_traffic": 4633
         }
     ],
     "ce9badfeb18a7daceed9f2d957e151e1674910ad103b9d87184c3ec799134424": [
@@ -43599,6 +44367,12 @@
             "distance": 17607,
             "duration": 1865,
             "duration_in_traffic": 1931
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.119312",
+            "distance": 17607,
+            "duration": 1865,
+            "duration_in_traffic": 1983
         }
     ],
     "03ef30b6d009a90190f9c2816f29e1db63ae42f641a1fe99b615dd54a712eb95": [
@@ -43937,6 +44711,12 @@
             "distance": 19238,
             "duration": 2484,
             "duration_in_traffic": 2457
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303042",
+            "distance": 24536,
+            "duration": 2591,
+            "duration_in_traffic": 3653
         }
     ],
     "dc2f3d1c6eec7c61f9cf130b981dda737ff4bc977b9d8dc99dfedadaded7d69e": [
@@ -44275,6 +45055,12 @@
             "distance": 26053,
             "duration": 3471,
             "duration_in_traffic": 3657
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303035",
+            "distance": 26053,
+            "duration": 3471,
+            "duration_in_traffic": 4978
         }
     ],
     "d2389e8464252ba8c48fc1a93b3ace83eb2261e28b0a1661f08db1302377dd3e": [
@@ -44613,6 +45399,12 @@
             "distance": 48021,
             "duration": 5550,
             "duration_in_traffic": 5150
+        },
+        {
+            "timestamp": "2023-01-16T03:42:51.303046",
+            "distance": 50151,
+            "duration": 6365,
+            "duration_in_traffic": 6258
         }
     ],
     "3ad15207a2ac0f7accc50bb9a790abdf4acb5534de9ba1796ba02a810dc9e5b6": [
@@ -44951,6 +45743,12 @@
             "distance": 17995,
             "duration": 2921,
             "duration_in_traffic": 2859
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.584673",
+            "distance": 17995,
+            "duration": 2921,
+            "duration_in_traffic": 3020
         }
     ],
     "ab87781959b7c58c9f63a463f8f71875af4ec952f07c79af51cf36f920ac9168": [
@@ -45049,6 +45847,12 @@
             "distance": 35786,
             "duration": 4431,
             "duration_in_traffic": 3983
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798105",
+            "distance": 46550,
+            "duration": 4102,
+            "duration_in_traffic": 3598
         }
     ],
     "a2c33bb17f0cc7a0f3b3467ea53ba18d5ac435199ee9255f2151d64e3b650dbd": [
@@ -45147,6 +45951,12 @@
             "distance": 47661,
             "duration": 5099,
             "duration_in_traffic": 4682
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751001",
+            "distance": 45271,
+            "duration": 4427,
+            "duration_in_traffic": 3808
         }
     ],
     "81559ebb072ca633c71535907440db1bf81bfc05de26a90fd5793216b0f60da7": [
@@ -45245,6 +46055,12 @@
             "distance": 11223,
             "duration": 1222,
             "duration_in_traffic": 1275
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235942",
+            "distance": 11223,
+            "duration": 1222,
+            "duration_in_traffic": 1164
         }
     ],
     "2c3c06403e1346f2b59be26cfae784bc65756547fc4fd464e9f7d56e5f12a430": [
@@ -45343,6 +46159,12 @@
             "distance": 36199,
             "duration": 4302,
             "duration_in_traffic": 4372
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235961",
+            "distance": 36199,
+            "duration": 4302,
+            "duration_in_traffic": 4198
         }
     ],
     "cc282b71eb17a9b52647639632c6bc8a6da688de86beaabb127021f808897e5f": [
@@ -45441,6 +46263,12 @@
             "distance": 42434,
             "duration": 3216,
             "duration_in_traffic": 4620
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513465",
+            "distance": 42434,
+            "duration": 3216,
+            "duration_in_traffic": 3390
         }
     ],
     "c5cb37040ea52b1a168d6fca7fbd514af01fe004d29c7048afe7d73e3316b611": [
@@ -45539,6 +46367,12 @@
             "distance": 46583,
             "duration": 4283,
             "duration_in_traffic": 4829
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489238",
+            "distance": 50092,
+            "duration": 4434,
+            "duration_in_traffic": 5250
         }
     ],
     "dea012e781a5ab0492b8ce1179bb62c99ca515c9028ae1e2c9acba9271b78c3f": [
@@ -45637,6 +46471,12 @@
             "distance": 19824,
             "duration": 2353,
             "duration_in_traffic": 2229
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393893",
+            "distance": 19824,
+            "duration": 2353,
+            "duration_in_traffic": 1993
         }
     ],
     "5a44edf3ad00196e4edafe3b5f860be82521975529e27f8112ac81e9f5e7f5c1": [
@@ -45735,6 +46575,12 @@
             "distance": 29918,
             "duration": 3753,
             "duration_in_traffic": 3515
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677202",
+            "distance": 29918,
+            "duration": 3753,
+            "duration_in_traffic": 3265
         }
     ],
     "fec8c9bd4e97f3fecef12e5d27428c49eb8f6cadbf781a9c54f111006d6b8cc3": [
@@ -45833,6 +46679,12 @@
             "distance": 26906,
             "duration": 2843,
             "duration_in_traffic": 2646
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087788",
+            "distance": 26906,
+            "duration": 2843,
+            "duration_in_traffic": 2431
         }
     ],
     "6855e282185ac2980e86a508e184f1cc30f84daa8f497d27496485bffd87e1ff": [
@@ -45931,6 +46783,12 @@
             "distance": 26345,
             "duration": 3824,
             "duration_in_traffic": 3671
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677237",
+            "distance": 26345,
+            "duration": 3824,
+            "duration_in_traffic": 3093
         }
     ],
     "2bd51fff933695e8bf69fca982325b91201e4acdc7cb64a0c8eef2d8f4716875": [
@@ -46029,6 +46887,12 @@
             "distance": 88409,
             "duration": 6399,
             "duration_in_traffic": 6203
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147317",
+            "distance": 58654,
+            "duration": 5418,
+            "duration_in_traffic": 5205
         }
     ],
     "64dfa2bb025192dbcbc8882d1b4e3eb6c74ed11039d7cac1875744b2ed3007bd": [
@@ -46127,6 +46991,12 @@
             "distance": 25284,
             "duration": 2144,
             "duration_in_traffic": 1966
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950810",
+            "distance": 25284,
+            "duration": 2144,
+            "duration_in_traffic": 1855
         }
     ],
     "e57efa7aece42a902f70b199a8bdeab3e5f8cee7ad7c066968839703588a1a98": [
@@ -46225,6 +47095,12 @@
             "distance": 13500,
             "duration": 1910,
             "duration_in_traffic": 1875
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677240",
+            "distance": 13500,
+            "duration": 1910,
+            "duration_in_traffic": 1593
         }
     ],
     "f805b08e9533e55ecc26fa84676b26ec83a5a3bd360e42b50cecac675aa45c95": [
@@ -46323,6 +47199,12 @@
             "distance": 64542,
             "duration": 5935,
             "duration_in_traffic": 6776
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235958",
+            "distance": 82541,
+            "duration": 6937,
+            "duration_in_traffic": 6581
         }
     ],
     "ce5d32bf16c74b1c414a474d8cf1fbeab5bc5f25127eb89f09219f510158803e": [
@@ -46421,6 +47303,12 @@
             "distance": 41014,
             "duration": 4231,
             "duration_in_traffic": 4322
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731465",
+            "distance": 36231,
+            "duration": 4152,
+            "duration_in_traffic": 3651
         }
     ],
     "b080135e4f6dc26c3666c8f6c40c2d6388b8b81859896013d9f32f9e25f8e90a": [
@@ -46519,6 +47407,12 @@
             "distance": 33303,
             "duration": 3717,
             "duration_in_traffic": 4061
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.920024",
+            "distance": 33889,
+            "duration": 3813,
+            "duration_in_traffic": 4332
         }
     ],
     "66e8a4eba3a7a31eec5ebefa17ece4fc52f7c04443bcedb228d397bdf814dd78": [
@@ -46617,6 +47511,12 @@
             "distance": 61847,
             "duration": 5839,
             "duration_in_traffic": 6428
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454481",
+            "distance": 61847,
+            "duration": 5839,
+            "duration_in_traffic": 6224
         }
     ],
     "19d696c2a65a18bf020546e224c5da85f602ffe89ce8cbd24472a76295486a5c": [
@@ -46715,6 +47615,12 @@
             "distance": 44842,
             "duration": 5908,
             "duration_in_traffic": 6078
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110413",
+            "distance": 44842,
+            "duration": 5908,
+            "duration_in_traffic": 4995
         }
     ],
     "24b8b0c98c21cf1e6820c1c2f971e92c8194dbb278d76e34cfb01afd26345e1a": [
@@ -46813,6 +47719,12 @@
             "distance": 103506,
             "duration": 6825,
             "duration_in_traffic": 7021
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147362",
+            "distance": 73635,
+            "duration": 5928,
+            "duration_in_traffic": 5405
         }
     ],
     "ff1637d45ba7e6b60ad89c5a5f96c3af51f0a3c401c62e9c8876eceb2157a14f": [
@@ -46911,6 +47823,12 @@
             "distance": 54747,
             "duration": 5373,
             "duration_in_traffic": 6649
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731453",
+            "distance": 91459,
+            "duration": 6527,
+            "duration_in_traffic": 5127
         }
     ],
     "b20dcce2f05dbbe1d8d09ad94b78f979886aaae478595910ad1f7c4f81bd3ac5": [
@@ -47009,6 +47927,12 @@
             "distance": 15125,
             "duration": 2045,
             "duration_in_traffic": 1811
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457100",
+            "distance": 15125,
+            "duration": 2045,
+            "duration_in_traffic": 1780
         }
     ],
     "6870d5aa705c1533ad8a335a34764427d0301b558151925d0f790c3fd27f8d2f": [
@@ -47107,6 +48031,12 @@
             "distance": 28088,
             "duration": 3421,
             "duration_in_traffic": 3382
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.919999",
+            "distance": 28088,
+            "duration": 3421,
+            "duration_in_traffic": 3241
         }
     ],
     "129e255284eb3c2b569dbd50b93cbb62f748c3d79f42d80512da504ef6dba96c": [
@@ -47205,6 +48135,12 @@
             "distance": 18643,
             "duration": 2284,
             "duration_in_traffic": 2174
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950788",
+            "distance": 18643,
+            "duration": 2284,
+            "duration_in_traffic": 1847
         }
     ],
     "78adfc7cee2c362d47bf866dc0e2d2b40445a2785381d54ea60d9be5122f486a": [
@@ -47303,6 +48239,12 @@
             "distance": 40658,
             "duration": 3981,
             "duration_in_traffic": 3680
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.137966",
+            "distance": 40658,
+            "duration": 3981,
+            "duration_in_traffic": 3378
         }
     ],
     "f4a0a479ee78764a24432d49523efbbc1c8b05014560f53f3e55aa5ef25ab48f": [
@@ -47401,6 +48343,12 @@
             "distance": 22231,
             "duration": 2956,
             "duration_in_traffic": 2835
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677225",
+            "distance": 22231,
+            "duration": 2956,
+            "duration_in_traffic": 2364
         }
     ],
     "301779a167e776ca8ba02ff2bb051c08eb4f6c97ac114a9090c481bad6ec03ce": [
@@ -47499,6 +48447,12 @@
             "distance": 40513,
             "duration": 4091,
             "duration_in_traffic": 3966
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087802",
+            "distance": 40513,
+            "duration": 4091,
+            "duration_in_traffic": 3484
         }
     ],
     "ab3d3f2c1149b4990f6e1c031a115272fe3fa33ec94c9f0eb86fc91a6c674748": [
@@ -47597,6 +48551,12 @@
             "distance": 15577,
             "duration": 2053,
             "duration_in_traffic": 1865
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087806",
+            "distance": 15577,
+            "duration": 2053,
+            "duration_in_traffic": 1770
         }
     ],
     "451c1d6ef95838bd496326dbcd9bd7e5ea9ab1238d15475bed487984abe20f67": [
@@ -47695,6 +48655,12 @@
             "distance": 19137,
             "duration": 2687,
             "duration_in_traffic": 2318
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950778",
+            "distance": 19137,
+            "duration": 2687,
+            "duration_in_traffic": 2243
         }
     ],
     "138a29a5dcea69b4e8b9d3c5581dacf1af9921695867bce19140cb9e7732834a": [
@@ -47793,6 +48759,12 @@
             "distance": 84037,
             "duration": 8591,
             "duration_in_traffic": 10633
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751019",
+            "distance": 70426,
+            "duration": 6685,
+            "duration_in_traffic": 7081
         }
     ],
     "2cbe10226bd4ee556e6d68e674ac9a3701047825b1190ad054dd87644c766e8e": [
@@ -47891,6 +48863,12 @@
             "distance": 53773,
             "duration": 4930,
             "duration_in_traffic": 4410
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.137999",
+            "distance": 53773,
+            "duration": 4930,
+            "duration_in_traffic": 4119
         }
     ],
     "bfd4e43ba0e885567e480e35074db8222eafc18a50daef6b793d65517698d8e5": [
@@ -47989,6 +48967,12 @@
             "distance": 32979,
             "duration": 2996,
             "duration_in_traffic": 2774
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.470985",
+            "distance": 32979,
+            "duration": 2996,
+            "duration_in_traffic": 2567
         }
     ],
     "b7b5b1260f5d3e5bf175f29fc7dd47a30a0fa8604add601d65e789fbf3690f35": [
@@ -48087,6 +49071,12 @@
             "distance": 33240,
             "duration": 4400,
             "duration_in_traffic": 4840
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414911",
+            "distance": 38309,
+            "duration": 4421,
+            "duration_in_traffic": 4395
         }
     ],
     "c303d57cbbce4b67be886799a085e97267e9c445476b599f332901b2d276e2c5": [
@@ -48185,6 +49175,12 @@
             "distance": 47511,
             "duration": 5210,
             "duration_in_traffic": 6020
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414880",
+            "distance": 47511,
+            "duration": 5210,
+            "duration_in_traffic": 4915
         }
     ],
     "404d082a4b3893dcf77ab80d4d9022ce8f10e63c6990e6ac46882e88b451f2a6": [
@@ -48283,6 +49279,12 @@
             "distance": 62563,
             "duration": 5273,
             "duration_in_traffic": 6332
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804389",
+            "distance": 75716,
+            "duration": 6165,
+            "duration_in_traffic": 7240
         }
     ],
     "c0d796fea676c91b5385e48a7dca8f65dc5913b3d9f059434f2602623bd1db51": [
@@ -48381,6 +49383,12 @@
             "distance": 18743,
             "duration": 2214,
             "duration_in_traffic": 2014
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798114",
+            "distance": 18743,
+            "duration": 2214,
+            "duration_in_traffic": 1864
         }
     ],
     "2d352b8b667d171baebf3054ed0fb78eff20c8529f73eb8758d8fe524be47d8e": [
@@ -48479,6 +49487,12 @@
             "distance": 15178,
             "duration": 2095,
             "duration_in_traffic": 1957
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131188",
+            "distance": 15178,
+            "duration": 2095,
+            "duration_in_traffic": 1627
         }
     ],
     "44490cccf02f1a8729e56dbb6b84ed9cf1fdf428b84e0bea247b68c05be3e672": [
@@ -48577,6 +49591,12 @@
             "distance": 42297,
             "duration": 3231,
             "duration_in_traffic": 4901
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147365",
+            "distance": 42693,
+            "duration": 3392,
+            "duration_in_traffic": 3850
         }
     ],
     "3500bacf0345c8bfc3d659161164a8eb2cd13f40cb40dcf6a7bcb2cd08336ad6": [
@@ -48675,6 +49695,12 @@
             "distance": 13035,
             "duration": 1761,
             "duration_in_traffic": 1565
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950796",
+            "distance": 13035,
+            "duration": 1761,
+            "duration_in_traffic": 1518
         }
     ],
     "570c04e40415cbe30d29d597b1c1435259f7803a269186f25f31e54ebbd04143": [
@@ -48773,6 +49799,12 @@
             "distance": 61156,
             "duration": 6019,
             "duration_in_traffic": 7360
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804393",
+            "distance": 58882,
+            "duration": 6869,
+            "duration_in_traffic": 7089
         }
     ],
     "b2c675ccbf876e161347987ef72d13f4a83777fdd289e1ab849a4ed87f0af42e": [
@@ -48871,6 +49903,12 @@
             "distance": 39418,
             "duration": 4219,
             "duration_in_traffic": 3759
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110417",
+            "distance": 39418,
+            "duration": 4219,
+            "duration_in_traffic": 3737
         }
     ],
     "bb544a9e581d1aa4e21047071c468437ab486b395dd2532942e50ef1ac63ed3e": [
@@ -48969,6 +50007,12 @@
             "distance": 23078,
             "duration": 2758,
             "duration_in_traffic": 2733
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751014",
+            "distance": 23078,
+            "duration": 2758,
+            "duration_in_traffic": 2559
         }
     ],
     "315ba411c99977d0d6b48ef2748fb4560f048dcb1d54239bca3d07ef0b6468b8": [
@@ -49067,6 +50111,12 @@
             "distance": 36019,
             "duration": 3809,
             "duration_in_traffic": 3637
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457141",
+            "distance": 28276,
+            "duration": 4062,
+            "duration_in_traffic": 3019
         }
     ],
     "2bf85f33284d3bc6d4fdc20180eb92ee0785af8a8a7f472a4a4c547fe842478e": [
@@ -49165,6 +50215,12 @@
             "distance": 23517,
             "duration": 3174,
             "duration_in_traffic": 2932
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131179",
+            "distance": 24539,
+            "duration": 3289,
+            "duration_in_traffic": 2558
         }
     ],
     "6153f6f4cd8a65618ebfc86469ee2325c6ee72598e7077b9562587f8a1261f32": [
@@ -49263,6 +50319,12 @@
             "distance": 12873,
             "duration": 1684,
             "duration_in_traffic": 2283
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414915",
+            "distance": 12873,
+            "duration": 1684,
+            "duration_in_traffic": 1817
         }
     ],
     "532731def982ca91c8603dd8d08e9df72809c750194dcb7d829123b0c340fb0a": [
@@ -49361,6 +50423,12 @@
             "distance": 22562,
             "duration": 2883,
             "duration_in_traffic": 2840
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393889",
+            "distance": 22562,
+            "duration": 2883,
+            "duration_in_traffic": 2468
         }
     ],
     "038c8ce11bc8f5efae5651516ed6b4c2e2f5c2609f180dcc1d1a9d3d8982c713": [
@@ -49459,6 +50527,12 @@
             "distance": 41754,
             "duration": 3338,
             "duration_in_traffic": 3067
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393878",
+            "distance": 41754,
+            "duration": 3338,
+            "duration_in_traffic": 2876
         }
     ],
     "cf13c710e2b33f9a61d4990a8e7aae0d388ff62bcb91194259524e607087d11c": [
@@ -49557,6 +50631,12 @@
             "distance": 32818,
             "duration": 3799,
             "duration_in_traffic": 3577
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235937",
+            "distance": 35179,
+            "duration": 3674,
+            "duration_in_traffic": 3368
         }
     ],
     "d5080899ff015e038c0b6127245566eb11b26d3a3b6b00a1e2307f1cf8b9cb81": [
@@ -49655,6 +50735,12 @@
             "distance": 32183,
             "duration": 4156,
             "duration_in_traffic": 4017
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087818",
+            "distance": 31589,
+            "duration": 4065,
+            "duration_in_traffic": 3479
         }
     ],
     "acdf11e2e832e14c4a98784d26bfcccc563d4402c1d767e3d957825fb9afe5ad": [
@@ -49753,6 +50839,12 @@
             "distance": 63021,
             "duration": 6870,
             "duration_in_traffic": 8709
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414898",
+            "distance": 63021,
+            "duration": 6870,
+            "duration_in_traffic": 7750
         }
     ],
     "12b15241bb09b3cee736b1354c66013d333a09a1bad6eaacbb9ff2c80e440ad3": [
@@ -49851,6 +50943,12 @@
             "distance": 31346,
             "duration": 4312,
             "duration_in_traffic": 4754
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454457",
+            "distance": 31346,
+            "duration": 4312,
+            "duration_in_traffic": 3786
         }
     ],
     "03353f9acd63a47def5aca0b16a8d2cef6aab731280f6f5e5999db0035e49764": [
@@ -49949,6 +51047,12 @@
             "distance": 52558,
             "duration": 4414,
             "duration_in_traffic": 4047
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393869",
+            "distance": 52558,
+            "duration": 4414,
+            "duration_in_traffic": 3731
         }
     ],
     "a07651cd6c61a56f21033ece6bdb6db7a05d30f84f7f19a8dd596f19b5963671": [
@@ -50047,6 +51151,12 @@
             "distance": 19563,
             "duration": 2502,
             "duration_in_traffic": 2441
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.471002",
+            "distance": 19563,
+            "duration": 2502,
+            "duration_in_traffic": 2034
         }
     ],
     "7a9296e3eb6524cd259204cecf8e4830a9a6f2e8a4507530410f19e8cb840ff4": [
@@ -50145,6 +51255,12 @@
             "distance": 73238,
             "duration": 5675,
             "duration_in_traffic": 4982
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731424",
+            "distance": 73238,
+            "duration": 5675,
+            "duration_in_traffic": 4473
         }
     ],
     "89196c48a8b930f77740f6abce7baa59c0c12b155d90772b30238e8131ea34d7": [
@@ -50243,6 +51359,12 @@
             "distance": 17662,
             "duration": 2491,
             "duration_in_traffic": 2344
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131153",
+            "distance": 18684,
+            "duration": 2606,
+            "duration_in_traffic": 2025
         }
     ],
     "7e68d5851d0b0055b4eeb12ed4c3fbd08bb69f70e556924b07472528b690b484": [
@@ -50341,6 +51463,12 @@
             "distance": 39209,
             "duration": 4553,
             "duration_in_traffic": 4804
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513477",
+            "distance": 44292,
+            "duration": 4078,
+            "duration_in_traffic": 3684
         }
     ],
     "b6b68738581549c28f66d35f95544af9fb93253436c512e853c75929107f5323": [
@@ -50439,6 +51567,12 @@
             "distance": 14119,
             "duration": 1621,
             "duration_in_traffic": 1582
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.471028",
+            "distance": 14119,
+            "duration": 1621,
+            "duration_in_traffic": 1405
         }
     ],
     "cb3d471f3f3daffa5c211004e0dd9de390dd9ab378c473b0bacabcd1ce968a76": [
@@ -50537,6 +51671,12 @@
             "distance": 13880,
             "duration": 1997,
             "duration_in_traffic": 1988
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.137980",
+            "distance": 13880,
+            "duration": 1997,
+            "duration_in_traffic": 1809
         }
     ],
     "9033af6af7ad058dc6b9164795adf9213ae1570ad4a2bf006cbf2a64c5524ad3": [
@@ -50635,6 +51775,12 @@
             "distance": 11284,
             "duration": 1616,
             "duration_in_traffic": 1504
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087793",
+            "distance": 10495,
+            "duration": 1565,
+            "duration_in_traffic": 1369
         }
     ],
     "22ba8486d84c0f2920a6975e77dc9f637a8346466ab0b3d09ff8b5df6d744605": [
@@ -50733,6 +51879,12 @@
             "distance": 12712,
             "duration": 1729,
             "duration_in_traffic": 1624
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677233",
+            "distance": 12712,
+            "duration": 1729,
+            "duration_in_traffic": 1467
         }
     ],
     "5e432fa1dcbb468389bcb6337103d26971ddff1fe22b12c6d224c996908d27cc": [
@@ -50831,6 +51983,12 @@
             "distance": 107511,
             "duration": 6409,
             "duration_in_traffic": 6058
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804371",
+            "distance": 107511,
+            "duration": 6409,
+            "duration_in_traffic": 5248
         }
     ],
     "930eda5681b264318a51e38b17687f9988caf66a98525c74e31ac644a24c4599": [
@@ -50929,6 +52087,12 @@
             "distance": 14343,
             "duration": 2050,
             "duration_in_traffic": 2068
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.471012",
+            "distance": 14343,
+            "duration": 2050,
+            "duration_in_traffic": 1770
         }
     ],
     "496640475ccb127d93d6519f8ad6a9b0fbb241e2ce8abb2187134dd6cdee2ade": [
@@ -51027,6 +52191,12 @@
             "distance": 21420,
             "duration": 2702,
             "duration_in_traffic": 2514
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110409",
+            "distance": 21420,
+            "duration": 2702,
+            "duration_in_traffic": 2390
         }
     ],
     "9a612c7e3d2805d1cebb44fa14e6fbfb9735363b34c35cc4bbe460fe1d5c8f82": [
@@ -51125,6 +52295,12 @@
             "distance": 29755,
             "duration": 2711,
             "duration_in_traffic": 3255
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513470",
+            "distance": 29755,
+            "duration": 2711,
+            "duration_in_traffic": 3976
         }
     ],
     "5b58fc86a5ff9886c2c72a03d48ac3a42a502e3e10c91572278a6ee92eecffad": [
@@ -51223,6 +52399,12 @@
             "distance": 35332,
             "duration": 4501,
             "duration_in_traffic": 5193
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110429",
+            "distance": 35332,
+            "duration": 4501,
+            "duration_in_traffic": 4049
         }
     ],
     "c7734f0f183bab7011b1cc74bb72a190a6d04516dbc27fe291a3a2a33ac2cbcc": [
@@ -51321,6 +52503,12 @@
             "distance": 16135,
             "duration": 1591,
             "duration_in_traffic": 1563
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393886",
+            "distance": 18112,
+            "duration": 1850,
+            "duration_in_traffic": 1573
         }
     ],
     "18892a359ac12ed2de0db821ff764300355323b87ec202eb58bb5117d51843b1": [
@@ -51419,6 +52607,12 @@
             "distance": 16196,
             "duration": 2497,
             "duration_in_traffic": 2453
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087810",
+            "distance": 16607,
+            "duration": 2530,
+            "duration_in_traffic": 2079
         }
     ],
     "bc84c22d8aca9adb48456e0611a2779fc0ffd5776c6e344c5da19384556360c3": [
@@ -51517,6 +52711,12 @@
             "distance": 54033,
             "duration": 5052,
             "duration_in_traffic": 4486
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798118",
+            "distance": 54033,
+            "duration": 5052,
+            "duration_in_traffic": 4140
         }
     ],
     "0db2a9cce1bb1cf0bb790c877834fad21cefb9d22c537f85469c2f641e5c5bd5": [
@@ -51615,6 +52815,12 @@
             "distance": 30374,
             "duration": 3549,
             "duration_in_traffic": 3237
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.138003",
+            "distance": 30374,
+            "duration": 3549,
+            "duration_in_traffic": 2960
         }
     ],
     "0c924d3fbd02097b3288eaa179423c69404b2c8545d0ff1bf3331cd37c40ec7a": [
@@ -51713,6 +52919,12 @@
             "distance": 47291,
             "duration": 4394,
             "duration_in_traffic": 5038
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804381",
+            "distance": 60009,
+            "duration": 5053,
+            "duration_in_traffic": 4812
         }
     ],
     "d6101be29057163a25cc34485bd8498ba39a3a9be0c2e15c6ed898c43377beb0": [
@@ -51811,6 +53023,12 @@
             "distance": 70667,
             "duration": 6548,
             "duration_in_traffic": 7883
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489233",
+            "distance": 70667,
+            "duration": 6548,
+            "duration_in_traffic": 7554
         }
     ],
     "060430a1e164378a69a9871a76dbf18322495e53de6ca0c387d48638dde9cef6": [
@@ -51909,6 +53127,12 @@
             "distance": 21856,
             "duration": 3119,
             "duration_in_traffic": 3026
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131171",
+            "distance": 21856,
+            "duration": 3119,
+            "duration_in_traffic": 2461
         }
     ],
     "5d76a61c249e4199b807996b510c5082e839b302b72767761d4f9f0949871f9b": [
@@ -52007,6 +53231,12 @@
             "distance": 11153,
             "duration": 1636,
             "duration_in_traffic": 1586
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.138015",
+            "distance": 11153,
+            "duration": 1636,
+            "duration_in_traffic": 1497
         }
     ],
     "4a027ab80df8daaf74b85aea3b17c8b2022eecb9e302ef16d6b13cb07be493b1": [
@@ -52105,6 +53335,12 @@
             "distance": 45034,
             "duration": 3531,
             "duration_in_traffic": 4951
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147339",
+            "distance": 45034,
+            "duration": 3531,
+            "duration_in_traffic": 4237
         }
     ],
     "f456dcea447d9b7cea24571e91ba07558c716f93ecd7d37bcacdfa5e280d6621": [
@@ -52203,6 +53439,12 @@
             "distance": 7067,
             "duration": 1142,
             "duration_in_traffic": 1204
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393864",
+            "distance": 7067,
+            "duration": 1142,
+            "duration_in_traffic": 1002
         }
     ],
     "aeb7ebe43290a6845856996e9394524a7bc24e5b620deba739a5eeb944ff48d0": [
@@ -52301,6 +53543,12 @@
             "distance": 26802,
             "duration": 3035,
             "duration_in_traffic": 2791
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110384",
+            "distance": 26802,
+            "duration": 3035,
+            "duration_in_traffic": 2721
         }
     ],
     "361e37a7c0d28858cc8b86b955b3cb60592421e39ca86f849db62eb60f38fce2": [
@@ -52399,6 +53647,12 @@
             "distance": 12397,
             "duration": 1444,
             "duration_in_traffic": 1430
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677214",
+            "distance": 12397,
+            "duration": 1444,
+            "duration_in_traffic": 1320
         }
     ],
     "bf055500f83f53d833584e7972ee389e1b7ee8e7783d1418b787358eb52b3617": [
@@ -52497,6 +53751,12 @@
             "distance": 18526,
             "duration": 2157,
             "duration_in_traffic": 2038
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677244",
+            "distance": 19362,
+            "duration": 2349,
+            "duration_in_traffic": 1942
         }
     ],
     "35fc359b582569ca04248489947fcb3423414cc0e9e9298a6d3a042317e320ed": [
@@ -52595,6 +53855,12 @@
             "distance": 13088,
             "duration": 1882,
             "duration_in_traffic": 1678
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457121",
+            "distance": 13088,
+            "duration": 1882,
+            "duration_in_traffic": 1554
         }
     ],
     "05af0ad696612aab8697ed6186d153dd8b9c4e3244e371a90fb12e5c475b5c5f": [
@@ -52693,6 +53959,12 @@
             "distance": 33030,
             "duration": 3142,
             "duration_in_traffic": 3115
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087775",
+            "distance": 33030,
+            "duration": 3142,
+            "duration_in_traffic": 2733
         }
     ],
     "a110e33904cc283defb54c4e300006166c9d2dc2091fe7a2c27842e36ea0795c": [
@@ -52791,6 +54063,12 @@
             "distance": 7796,
             "duration": 1402,
             "duration_in_traffic": 1229
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950800",
+            "distance": 7796,
+            "duration": 1402,
+            "duration_in_traffic": 1098
         }
     ],
     "71dbd7623bd6d12cc56d50ebf0b648db4e2c8e5ee8d9d0a9c0c543ea66529e6c": [
@@ -52889,6 +54167,12 @@
             "distance": 47899,
             "duration": 5759,
             "duration_in_traffic": 6261
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731462",
+            "distance": 47899,
+            "duration": 5759,
+            "duration_in_traffic": 5276
         }
     ],
     "31a3dcfe69a300d021183b28579f246d3f37f83b4a9a3272d1d3b92b7e643096": [
@@ -52987,6 +54271,12 @@
             "distance": 16480,
             "duration": 1830,
             "duration_in_traffic": 1723
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798090",
+            "distance": 16480,
+            "duration": 1830,
+            "duration_in_traffic": 1649
         }
     ],
     "b9bb1b8d280e6b0eaf5cd1bfdd8fd51dc48d0b415bfb5cfec566fa44ad034f35": [
@@ -53085,6 +54375,12 @@
             "distance": 66674,
             "duration": 6328,
             "duration_in_traffic": 8542
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147358",
+            "distance": 68433,
+            "duration": 6177,
+            "duration_in_traffic": 7358
         }
     ],
     "63c0aa92d1ce13135db518bc254c13240b79832445594efbf3aa8a2046693321": [
@@ -53183,6 +54479,12 @@
             "distance": 56987,
             "duration": 5987,
             "duration_in_traffic": 6672
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.920004",
+            "distance": 57675,
+            "duration": 5962,
+            "duration_in_traffic": 6406
         }
     ],
     "bb8a1021ad0a4929a75599e5f6dd9af08ac2b73e40e0441ce188a1b3293c10e9": [
@@ -53281,6 +54583,12 @@
             "distance": 11473,
             "duration": 1234,
             "duration_in_traffic": 1283
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751045",
+            "distance": 11473,
+            "duration": 1234,
+            "duration_in_traffic": 1175
         }
     ],
     "2d617c9ff8f7d41e214c26dba6b008309e070330f3959db6905bfe529d8bec66": [
@@ -53379,6 +54687,12 @@
             "distance": 20500,
             "duration": 3024,
             "duration_in_traffic": 2834
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131175",
+            "distance": 20500,
+            "duration": 3024,
+            "duration_in_traffic": 2472
         }
     ],
     "c278ce9c7646b523bc86d20cdc5b2883c982555c94f3a755513733859b3fd4f6": [
@@ -53477,6 +54791,12 @@
             "distance": 66144,
             "duration": 6164,
             "duration_in_traffic": 7005
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.920009",
+            "distance": 66721,
+            "duration": 6303,
+            "duration_in_traffic": 7147
         }
     ],
     "f0757ec30e1c9e04b37075b2e764c4f69330667aacfc4cd6bb4de1470c32146c": [
@@ -53575,6 +54895,12 @@
             "distance": 51910,
             "duration": 5578,
             "duration_in_traffic": 6424
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489250",
+            "distance": 51910,
+            "duration": 5578,
+            "duration_in_traffic": 6687
         }
     ],
     "6d36b8428a21cf90ff71f911cfb2de4638da5a5840837997fc9ab5cb927f7ff2": [
@@ -53673,6 +54999,12 @@
             "distance": 31501,
             "duration": 3530,
             "duration_in_traffic": 4116
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513410",
+            "distance": 32788,
+            "duration": 3510,
+            "duration_in_traffic": 3102
         }
     ],
     "9402dc8eac7ef1d75553e78af86c34b468d2d1e7d1df26742930cd9dedee840c": [
@@ -53771,6 +55103,12 @@
             "distance": 38608,
             "duration": 4394,
             "duration_in_traffic": 4606
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489246",
+            "distance": 38608,
+            "duration": 4394,
+            "duration_in_traffic": 5236
         }
     ],
     "791be30bf5ba32603fd5b9c05f48d0ed9267295614ecebc5cb4cf40151a1deb8": [
@@ -53869,6 +55207,12 @@
             "distance": 38909,
             "duration": 3868,
             "duration_in_traffic": 3613
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.137990",
+            "distance": 27462,
+            "duration": 3734,
+            "duration_in_traffic": 3407
         }
     ],
     "261fe6206ba6f609787be463f6e7012cf704b4aa7c81832bfd8a3a8f735d5287": [
@@ -53967,6 +55311,12 @@
             "distance": 56897,
             "duration": 5020,
             "duration_in_traffic": 4617
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.470997",
+            "distance": 56897,
+            "duration": 5020,
+            "duration_in_traffic": 4245
         }
     ],
     "43bfa3d76300a48562dd8f6a22ef40c55c0850b2edf1294086c56d83f03b2a70": [
@@ -54065,6 +55415,12 @@
             "distance": 9552,
             "duration": 1604,
             "duration_in_traffic": 1474
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131163",
+            "distance": 9552,
+            "duration": 1604,
+            "duration_in_traffic": 1159
         }
     ],
     "8d8ce1d83d6605b58055a5b7e5949ec110caebf41237ec8dddc7767e35320a1f": [
@@ -54163,6 +55519,12 @@
             "distance": 26459,
             "duration": 3261,
             "duration_in_traffic": 3388
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751041",
+            "distance": 26459,
+            "duration": 3261,
+            "duration_in_traffic": 3104
         }
     ],
     "b70399b4ff0ff87745b0629385c11794c4f377f1ddd92988870e2ac08e3d2e6b": [
@@ -54261,6 +55623,12 @@
             "distance": 24695,
             "duration": 3472,
             "duration_in_traffic": 3560
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131158",
+            "distance": 24695,
+            "duration": 3472,
+            "duration_in_traffic": 2949
         }
     ],
     "0b1551d90e0c63ea5dcf7bb55e3bf7a0790118478a03849f06075845ecb12e68": [
@@ -54359,6 +55727,12 @@
             "distance": 21108,
             "duration": 3060,
             "duration_in_traffic": 3010
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.138007",
+            "distance": 21108,
+            "duration": 3060,
+            "duration_in_traffic": 2627
         }
     ],
     "91dbc5b67739ef83051126e95cbbf37ff75598f2696342412727e8c69478da20": [
@@ -54457,6 +55831,12 @@
             "distance": 55407,
             "duration": 4459,
             "duration_in_traffic": 4159
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804359",
+            "distance": 55407,
+            "duration": 4459,
+            "duration_in_traffic": 3775
         }
     ],
     "25e27d513959e1aa1b8df0de79a9c248c715eaae7306041e29fc78ad260ebdc6": [
@@ -54555,6 +55935,12 @@
             "distance": 31332,
             "duration": 2713,
             "duration_in_traffic": 2601
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798122",
+            "distance": 31332,
+            "duration": 2713,
+            "duration_in_traffic": 2444
         }
     ],
     "947f7418042a77feb7328826a20c2a6105ffacc04b61836d994c14858940f71f": [
@@ -54653,6 +56039,12 @@
             "distance": 34461,
             "duration": 4673,
             "duration_in_traffic": 5162
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677220",
+            "distance": 34461,
+            "duration": 4673,
+            "duration_in_traffic": 4116
         }
     ],
     "fb1e42d417dd8ad5d4a95c1a994a4edf426ede574706f1c73c7c9d6c0e80ec66": [
@@ -54751,6 +56143,12 @@
             "distance": 21411,
             "duration": 2652,
             "duration_in_traffic": 2422
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798109",
+            "distance": 21411,
+            "duration": 2652,
+            "duration_in_traffic": 2223
         }
     ],
     "c4f910c289ea6a3b00314b1be5ad8f3e3eabb7ae891e061cd75bc90529ab0adf": [
@@ -54849,6 +56247,12 @@
             "distance": 62889,
             "duration": 6105,
             "duration_in_traffic": 6638
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454445",
+            "distance": 62223,
+            "duration": 6204,
+            "duration_in_traffic": 6144
         }
     ],
     "26d9d417dd4fbb2161a307fc202f8e971572f3b1172f9f13fc0853fc2fbadd7c": [
@@ -54947,6 +56351,12 @@
             "distance": 24659,
             "duration": 3236,
             "duration_in_traffic": 3235
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131167",
+            "distance": 24659,
+            "duration": 3236,
+            "duration_in_traffic": 2599
         }
     ],
     "2dbd614bc5850655f0b9cd0c671e4626af2c3d36d13096e6ec0cfea8523f8e24": [
@@ -55045,6 +56455,12 @@
             "distance": 77243,
             "duration": 5968,
             "duration_in_traffic": 6383
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751024",
+            "distance": 56583,
+            "duration": 5850,
+            "duration_in_traffic": 6193
         }
     ],
     "767904629373854450b94dc0fc36c10110e63979792f1c19fe98e135a6826819": [
@@ -55143,6 +56559,12 @@
             "distance": 46556,
             "duration": 4511,
             "duration_in_traffic": 4561
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731439",
+            "distance": 45327,
+            "duration": 4495,
+            "duration_in_traffic": 3861
         }
     ],
     "c76801138e41adf557007c2ff719d8cd23880cbd4afee3d2229f8a9b29f5c110": [
@@ -55241,6 +56663,12 @@
             "distance": 39794,
             "duration": 4150,
             "duration_in_traffic": 3872
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235925",
+            "distance": 39593,
+            "duration": 4118,
+            "duration_in_traffic": 3649
         }
     ],
     "fe89003b4221ad0422071752ca89e11fc565c04eaa62b10610c1da0bd1c45689": [
@@ -55339,6 +56767,12 @@
             "distance": 63551,
             "duration": 6260,
             "duration_in_traffic": 6992
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731457",
+            "distance": 63551,
+            "duration": 6260,
+            "duration_in_traffic": 7593
         }
     ],
     "78038c7b52ec31e97d8010a6f095342f12423d7f7fdacde8539bf3fdfc35569f": [
@@ -55437,6 +56871,12 @@
             "distance": 51186,
             "duration": 3677,
             "duration_in_traffic": 3501
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147350",
+            "distance": 35001,
+            "duration": 3258,
+            "duration_in_traffic": 3210
         }
     ],
     "080ecaf0c70be9d17e05c2088a02a9753bf34e5c8a2e11e80c344269863c399a": [
@@ -55535,6 +56975,12 @@
             "distance": 62371,
             "duration": 5129,
             "duration_in_traffic": 5630
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454469",
+            "distance": 61836,
+            "duration": 5285,
+            "duration_in_traffic": 5792
         }
     ],
     "b3447ef2ab7522030613df3a4feae6367d7a40451f1eaf2dd38563b3cfb38a3f": [
@@ -55633,6 +57079,12 @@
             "distance": 30584,
             "duration": 3967,
             "duration_in_traffic": 4714
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731448",
+            "distance": 28140,
+            "duration": 4333,
+            "duration_in_traffic": 4044
         }
     ],
     "68fd6b301417be55687b01eb59cf7853d4581c9ad708462ff16f26cdad4e0131": [
@@ -55731,6 +57183,12 @@
             "distance": 48816,
             "duration": 5742,
             "duration_in_traffic": 7288
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.919979",
+            "distance": 48816,
+            "duration": 5742,
+            "duration_in_traffic": 5356
         }
     ],
     "9b4edd28cccf17fea3e34ae9e1c713a405a6989bed11d3da0f6635683f14318e": [
@@ -55829,6 +57287,12 @@
             "distance": 72095,
             "duration": 5873,
             "duration_in_traffic": 6707
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235954",
+            "distance": 72095,
+            "duration": 5873,
+            "duration_in_traffic": 6822
         }
     ],
     "a6381c6847530db56300053a473b9f2fc5e4b06641fd16642806f937d4d0fcae": [
@@ -55927,6 +57391,12 @@
             "distance": 33678,
             "duration": 2626,
             "duration_in_traffic": 3319
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513461",
+            "distance": 33678,
+            "duration": 2626,
+            "duration_in_traffic": 2314
         }
     ],
     "afc25f8ce59088de4067db91107084993c607048a71ee6ededaa0109ce7f09cc": [
@@ -56025,6 +57495,12 @@
             "distance": 38000,
             "duration": 4474,
             "duration_in_traffic": 4404
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.920020",
+            "distance": 38000,
+            "duration": 4474,
+            "duration_in_traffic": 4102
         }
     ],
     "e69c3749e44cbc5a22177ed38d0e3927c316f51d38b1bf9958ec4a86f77ba0b1": [
@@ -56123,6 +57599,12 @@
             "distance": 28348,
             "duration": 3457,
             "duration_in_traffic": 4447
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513473",
+            "distance": 25342,
+            "duration": 3612,
+            "duration_in_traffic": 3637
         }
     ],
     "d225e326362fa4977bec2f875bfd9e7a4722b8c9b01f49f9a2ba1946737a5214": [
@@ -56221,6 +57703,12 @@
             "distance": 64576,
             "duration": 6005,
             "duration_in_traffic": 5308
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.137986",
+            "distance": 64576,
+            "duration": 6005,
+            "duration_in_traffic": 4920
         }
     ],
     "bfc3e81ee6793d335b0b7eadc2bbb98b4cad0f41908b42ef9caf0d30bcb8b58e": [
@@ -56319,6 +57807,12 @@
             "distance": 33554,
             "duration": 2775,
             "duration_in_traffic": 3518
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804400",
+            "distance": 43378,
+            "duration": 3101,
+            "duration_in_traffic": 3500
         }
     ],
     "47260c6954c6bbbe852544393731cada2f4ed89d6428422e0331364f2ccf7351": [
@@ -56417,6 +57911,12 @@
             "distance": 9482,
             "duration": 1570,
             "duration_in_traffic": 1484
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950766",
+            "distance": 10227,
+            "duration": 1604,
+            "duration_in_traffic": 1308
         }
     ],
     "b05805be8d411acabdd9820a0f104ebe57bbd1bcacc636c510f222456ea39b96": [
@@ -56515,6 +58015,12 @@
             "distance": 32917,
             "duration": 4414,
             "duration_in_traffic": 5109
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414923",
+            "distance": 32917,
+            "duration": 4414,
+            "duration_in_traffic": 4840
         }
     ],
     "9ef25e9d3c6e8bf4342453d9c7d3ac29b4d1c9d11db35067926e8ee86400cbb5": [
@@ -56613,6 +58119,12 @@
             "distance": 33137,
             "duration": 4444,
             "duration_in_traffic": 4948
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513447",
+            "distance": 37178,
+            "duration": 4423,
+            "duration_in_traffic": 4340
         }
     ],
     "4447afa8654f29119e846af07d50abb71258f418441fc7f4eb5464faa3b0a80c": [
@@ -56711,6 +58223,12 @@
             "distance": 94765,
             "duration": 6884,
             "duration_in_traffic": 6825
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414903",
+            "distance": 94765,
+            "duration": 6884,
+            "duration_in_traffic": 6406
         }
     ],
     "e4fd804c0eefcc8367f224dcd89c29e98dcb5d3733d5c5a8cf43586016adcb5a": [
@@ -56809,6 +58327,12 @@
             "distance": 39043,
             "duration": 4069,
             "duration_in_traffic": 3696
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457117",
+            "distance": 39043,
+            "duration": 4069,
+            "duration_in_traffic": 3536
         }
     ],
     "de58e7b7662966d38b08b7d3dd9dfe27cccd8b3ce3f8d2bdf0c69cad6a552780": [
@@ -56907,6 +58431,12 @@
             "distance": 26890,
             "duration": 2277,
             "duration_in_traffic": 2187
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393873",
+            "distance": 26890,
+            "duration": 2277,
+            "duration_in_traffic": 2067
         }
     ],
     "d95e91055f05303890e85c0747bc3f6a7f14f248a37c1d3d65b7c1ae701ee4af": [
@@ -57005,6 +58535,12 @@
             "distance": 66668,
             "duration": 6300,
             "duration_in_traffic": 7865
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.920012",
+            "distance": 68848,
+            "duration": 6894,
+            "duration_in_traffic": 7834
         }
     ],
     "0439f4fd37f3fc32c35f4d2b6e64a5ab6ff809fb1b645cc77e2a6329b0061f28": [
@@ -57103,6 +58639,12 @@
             "distance": 42518,
             "duration": 4360,
             "duration_in_traffic": 4561
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454465",
+            "distance": 42609,
+            "duration": 4505,
+            "duration_in_traffic": 4543
         }
     ],
     "dfd808d09d72f5682575a893df89b5a962dda22f8fb3e100b90338516d404d43": [
@@ -57201,6 +58743,12 @@
             "distance": 28156,
             "duration": 3076,
             "duration_in_traffic": 3402
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513457",
+            "distance": 28156,
+            "duration": 3076,
+            "duration_in_traffic": 2827
         }
     ],
     "f6a7ada36c50560e00448768b8f97458ae980e49e32672c820fea89b5fdcb100": [
@@ -57299,6 +58847,12 @@
             "distance": 68081,
             "duration": 5582,
             "duration_in_traffic": 7473
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147354",
+            "distance": 69840,
+            "duration": 5430,
+            "duration_in_traffic": 7089
         }
     ],
     "685941e8a840cfb53abc964bc81786c34520dfac2d792e4220e13235fd690bb8": [
@@ -57397,6 +58951,12 @@
             "distance": 18510,
             "duration": 2568,
             "duration_in_traffic": 3073
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.920016",
+            "distance": 18510,
+            "duration": 2568,
+            "duration_in_traffic": 2972
         }
     ],
     "ba68af6cf70f94a7a536549cd97b3403074f41b592c771ddb880e331ff48e004": [
@@ -57495,6 +59055,12 @@
             "distance": 67670,
             "duration": 6309,
             "duration_in_traffic": 7359
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235946",
+            "distance": 64949,
+            "duration": 6409,
+            "duration_in_traffic": 7029
         }
     ],
     "22f9d43efdf8e36a4cdc5d5c18ed48e4801524dac1b37d9ecc0ae22ec7b15577": [
@@ -57593,6 +59159,12 @@
             "distance": 26561,
             "duration": 3060,
             "duration_in_traffic": 2867
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950783",
+            "distance": 26561,
+            "duration": 3060,
+            "duration_in_traffic": 2476
         }
     ],
     "9932ddd8c5dc1ad0801ab7258406b14de133bfc4a5e0e6afeb6a79a167ecc009": [
@@ -57691,6 +59263,12 @@
             "distance": 24998,
             "duration": 3324,
             "duration_in_traffic": 3477
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110421",
+            "distance": 24998,
+            "duration": 3324,
+            "duration_in_traffic": 2977
         }
     ],
     "b8f19bbeba1a59c8f015733c8e1abd7abde05becf8a5f72e427a90158f1db70d": [
@@ -57789,6 +59367,12 @@
             "distance": 79599,
             "duration": 5229,
             "duration_in_traffic": 6311
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804376",
+            "distance": 79599,
+            "duration": 5229,
+            "duration_in_traffic": 4632
         }
     ],
     "010e858ac7340ee480a412b33f2c63af687ec1901ab43432df1affb957a37f4f": [
@@ -57887,6 +59471,12 @@
             "distance": 45826,
             "duration": 5852,
             "duration_in_traffic": 6642
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454461",
+            "distance": 45826,
+            "duration": 5852,
+            "duration_in_traffic": 4942
         }
     ],
     "da92838f2877a4bb87c3f72151d749ebb99ba64013a38554a64964b0fa469ffd": [
@@ -57985,6 +59575,12 @@
             "distance": 44969,
             "duration": 5829,
             "duration_in_traffic": 6553
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751033",
+            "distance": 44969,
+            "duration": 5829,
+            "duration_in_traffic": 6050
         }
     ],
     "18e2ff506c781babdc5b703d4548110940d3c6ef1c27b81245dc801bc07a8bf9": [
@@ -58083,6 +59679,12 @@
             "distance": 27903,
             "duration": 3072,
             "duration_in_traffic": 3421
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489265",
+            "distance": 30761,
+            "duration": 3200,
+            "duration_in_traffic": 4109
         }
     ],
     "7d31f4f0145cdcee95661679537908e627b9d3d892bb3ea87af2565fc69d6e67": [
@@ -58181,6 +59783,12 @@
             "distance": 14493,
             "duration": 2023,
             "duration_in_traffic": 1961
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.138011",
+            "distance": 15115,
+            "duration": 2192,
+            "duration_in_traffic": 1749
         }
     ],
     "96a5b5ad38766e6f2fe91937190957eb8b41df4aeeb0bf4f9e6b4ed14fe35641": [
@@ -58279,6 +59887,12 @@
             "distance": 6819,
             "duration": 1072,
             "duration_in_traffic": 1019
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.471024",
+            "distance": 6819,
+            "duration": 1072,
+            "duration_in_traffic": 872
         }
     ],
     "2f6151e64931821995e0ce95b9c4c1dcf94cc3bf0145417c498457e94f6471b1": [
@@ -58377,6 +59991,12 @@
             "distance": 19185,
             "duration": 2555,
             "duration_in_traffic": 2517
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457113",
+            "distance": 19185,
+            "duration": 2555,
+            "duration_in_traffic": 2252
         }
     ],
     "ebab4cde603ab5ee90a7599491fca1e6c552b43dd69769cb5cb9e5bd490bfcc4": [
@@ -58475,6 +60095,12 @@
             "distance": 140513,
             "duration": 8349,
             "duration_in_traffic": 7973
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147330",
+            "distance": 80832,
+            "duration": 7145,
+            "duration_in_traffic": 7577
         }
     ],
     "32266cd5065c001b0a509574fd135e2e254834c73d73b475283a8d7d779156b4": [
@@ -58573,6 +60199,12 @@
             "distance": 66502,
             "duration": 5320,
             "duration_in_traffic": 5387
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235950",
+            "distance": 66502,
+            "duration": 5320,
+            "duration_in_traffic": 4674
         }
     ],
     "628da3edf44a295fa8b9b3f3118a8870f7956611fb2ae51d82908e66d37795ef": [
@@ -58671,6 +60303,12 @@
             "distance": 65125,
             "duration": 6267,
             "duration_in_traffic": 7618
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489261",
+            "distance": 65125,
+            "duration": 6267,
+            "duration_in_traffic": 7351
         }
     ],
     "af4d756075135c28b5d6981a833981e90dbcdbe9ce3fcacce47120e7008210a3": [
@@ -58769,6 +60407,12 @@
             "distance": 16243,
             "duration": 2556,
             "duration_in_traffic": 2641
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.131141",
+            "distance": 16243,
+            "duration": 2556,
+            "duration_in_traffic": 2066
         }
     ],
     "4215df88a944ac1ee1b1b39c520f8f2b515d16db7ca588fe11ffe732e29db5fe": [
@@ -58867,6 +60511,12 @@
             "distance": 70504,
             "duration": 4886,
             "duration_in_traffic": 5332
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804396",
+            "distance": 70504,
+            "duration": 4886,
+            "duration_in_traffic": 4434
         }
     ],
     "ea8ac6c1d2ad4a81b0f7325a2588b5b7ebe3cf8d7a7f12c9c6142a8c777b77c2": [
@@ -58965,6 +60615,12 @@
             "distance": 29042,
             "duration": 3018,
             "duration_in_traffic": 3407
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.804385",
+            "distance": 29042,
+            "duration": 3018,
+            "duration_in_traffic": 3385
         }
     ],
     "a9a6d9b2e7eee84eac432d2077ccf1d6a22bfbbcded0a235e8900ef0785f5c60": [
@@ -59063,6 +60719,12 @@
             "distance": 23783,
             "duration": 3062,
             "duration_in_traffic": 2803
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950814",
+            "distance": 23710,
+            "duration": 3207,
+            "duration_in_traffic": 2806
         }
     ],
     "29085e8862506b4582752de1b962b308d420459777236962382f12d64a8c3c8d": [
@@ -59161,6 +60823,12 @@
             "distance": 48548,
             "duration": 4379,
             "duration_in_traffic": 5095
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.513452",
+            "distance": 49834,
+            "duration": 4359,
+            "duration_in_traffic": 3912
         }
     ],
     "fa9479415d79cfec8b2b80ebf2926334fe3f78d8f46b98982421c426878cbd1c": [
@@ -59259,6 +60927,12 @@
             "distance": 13609,
             "duration": 1881,
             "duration_in_traffic": 2060
+        },
+        {
+            "timestamp": "2023-01-16T03:42:47.919994",
+            "distance": 13609,
+            "duration": 1881,
+            "duration_in_traffic": 1890
         }
     ],
     "2cd9606998f898def12529e121f3ab303e3ced4000cd67f2b4b42aab1c69548a": [
@@ -59357,6 +61031,12 @@
             "distance": 117619,
             "duration": 7870,
             "duration_in_traffic": 8177
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751029",
+            "distance": 81239,
+            "duration": 6672,
+            "duration_in_traffic": 7040
         }
     ],
     "c555cf61248d2bee33ba8a6b4814b01256eddf06c0db3442e3760db46aa47c1e": [
@@ -59455,6 +61135,12 @@
             "distance": 18211,
             "duration": 2539,
             "duration_in_traffic": 2533
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.471016",
+            "distance": 18211,
+            "duration": 2539,
+            "duration_in_traffic": 2209
         }
     ],
     "3213b968ff06f576adb06aac4b0273a04fb24ca008ccdc8fc983f591957c5337": [
@@ -59553,6 +61239,12 @@
             "distance": 24445,
             "duration": 3146,
             "duration_in_traffic": 2921
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798125",
+            "distance": 24445,
+            "duration": 3146,
+            "duration_in_traffic": 2630
         }
     ],
     "4b580317d0d60b29bf6034ea13e070430a7bd895b77c22aacfbd01ee77f0f62c": [
@@ -59651,6 +61343,12 @@
             "distance": 22673,
             "duration": 2588,
             "duration_in_traffic": 2752
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414894",
+            "distance": 22673,
+            "duration": 2588,
+            "duration_in_traffic": 2615
         }
     ],
     "56ad641075ce2d899b8f475bcad99863b505801b47e77fa03595f1dd74ca8925": [
@@ -59749,6 +61447,12 @@
             "distance": 45197,
             "duration": 3454,
             "duration_in_traffic": 3023
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798129",
+            "distance": 41060,
+            "duration": 3346,
+            "duration_in_traffic": 2928
         }
     ],
     "ddc025f5c5a63e389501628feb36bd7053fb071cefa278b57f53ea890d525cb4": [
@@ -59847,6 +61551,12 @@
             "distance": 31956,
             "duration": 2823,
             "duration_in_traffic": 2744
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457126",
+            "distance": 31956,
+            "duration": 2823,
+            "duration_in_traffic": 2504
         }
     ],
     "6c649b45baa200ce6e04b204599002a67bf4ec84b4220f14c2600a6854375ae7": [
@@ -59945,6 +61655,12 @@
             "distance": 50322,
             "duration": 5809,
             "duration_in_traffic": 7345
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731444",
+            "distance": 51745,
+            "duration": 6107,
+            "duration_in_traffic": 6941
         }
     ],
     "504b2c470e6859ed923c2d3b514abb3da1f0c3d8a2622cd4cc2997d569842f49": [
@@ -60043,6 +61759,12 @@
             "distance": 27540,
             "duration": 2385,
             "duration_in_traffic": 2212
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087814",
+            "distance": 27540,
+            "duration": 2385,
+            "duration_in_traffic": 2069
         }
     ],
     "186134eb2e7be3af6ef675be610d6f5ef08ae06465bdf0e4cd4cd9dba717ea4c": [
@@ -60141,6 +61863,12 @@
             "distance": 31501,
             "duration": 3699,
             "duration_in_traffic": 3394
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457130",
+            "distance": 31501,
+            "duration": 3699,
+            "duration_in_traffic": 3084
         }
     ],
     "a34d29ba95bd901a0b477acc1d06a044f67f6bb22d097eaa868aec409a9f2cd5": [
@@ -60239,6 +61967,12 @@
             "distance": 53620,
             "duration": 5699,
             "duration_in_traffic": 7104
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489216",
+            "distance": 53620,
+            "duration": 5699,
+            "duration_in_traffic": 6680
         }
     ],
     "b9f74ed3eeb5aa2ee704663ac19d6d04012d83736dc43f567c5af96ac916b751": [
@@ -60337,6 +62071,12 @@
             "distance": 31173,
             "duration": 3621,
             "duration_in_traffic": 4590
+        },
+        {
+            "timestamp": "2023-01-16T03:42:41.731470",
+            "distance": 29914,
+            "duration": 3936,
+            "duration_in_traffic": 4452
         }
     ],
     "6171e05784b6994062505f9ace41b9d5a725521dfe8b639ef007255fb7d427ce": [
@@ -60435,6 +62175,12 @@
             "distance": 67944,
             "duration": 5306,
             "duration_in_traffic": 6338
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454473",
+            "distance": 69807,
+            "duration": 5778,
+            "duration_in_traffic": 6578
         }
     ],
     "c84e833b5061f86e7f129a61461b34a99547a89ef7ee60163a5d75092e21268f": [
@@ -60533,6 +62279,12 @@
             "distance": 17160,
             "duration": 2216,
             "duration_in_traffic": 2248
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.471020",
+            "distance": 17160,
+            "duration": 2216,
+            "duration_in_traffic": 1846
         }
     ],
     "93483895314b8dfe78a9722eb1d7d275602de55c0aa1181601cf8a96f15ec420": [
@@ -60631,6 +62383,12 @@
             "distance": 43674,
             "duration": 4115,
             "duration_in_traffic": 4745
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.235966",
+            "distance": 43674,
+            "duration": 4115,
+            "duration_in_traffic": 4350
         }
     ],
     "1afe5d83057e2e820dbc8eec013bff3fe504af8a8d9dcd3b6ec91d6146911a28": [
@@ -60729,6 +62487,12 @@
             "distance": 34744,
             "duration": 3624,
             "duration_in_traffic": 3816
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414919",
+            "distance": 34744,
+            "duration": 3624,
+            "duration_in_traffic": 3336
         }
     ],
     "7c7c04c5013d5a7682cfd878ce687cf4aa6d1989f70438f198292957956df6da": [
@@ -60827,6 +62591,12 @@
             "distance": 18532,
             "duration": 2644,
             "duration_in_traffic": 3105
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454477",
+            "distance": 18532,
+            "duration": 2644,
+            "duration_in_traffic": 2332
         }
     ],
     "e5ad03718eca4d17e4b5eca27595f42d453856864e6f54ddb8527d8184c299cd": [
@@ -60925,6 +62695,12 @@
             "distance": 29530,
             "duration": 2682,
             "duration_in_traffic": 2944
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.454485",
+            "distance": 29004,
+            "duration": 2794,
+            "duration_in_traffic": 3445
         }
     ],
     "173d0394b1137b6bafbb16a45265c8995846d0e05080b7f3dc18217b28d2dbf9": [
@@ -61023,6 +62799,12 @@
             "distance": 46094,
             "duration": 3945,
             "duration_in_traffic": 3691
+        },
+        {
+            "timestamp": "2023-01-16T03:42:43.471007",
+            "distance": 46094,
+            "duration": 3945,
+            "duration_in_traffic": 3324
         }
     ],
     "04e62c9cf5a3255dfc813f0ba3fd3fe7b5e25a675fdeb85267a105008fbc1d20": [
@@ -61121,6 +62903,12 @@
             "distance": 14693,
             "duration": 2055,
             "duration_in_traffic": 1943
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393882",
+            "distance": 14693,
+            "duration": 2055,
+            "duration_in_traffic": 1661
         }
     ],
     "d4db952c9763bbff849023b9764b4a07f2c24747dd363ff71150161f8153701b": [
@@ -61219,6 +63007,12 @@
             "distance": 43033,
             "duration": 4702,
             "duration_in_traffic": 4286
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.677229",
+            "distance": 43033,
+            "duration": 4702,
+            "duration_in_traffic": 4149
         }
     ],
     "09c7e4fd603e82870f94e3abb8ba6051bb88d5e96fb351bcfbb53a5054a753d6": [
@@ -61317,6 +63111,12 @@
             "distance": 62042,
             "duration": 6810,
             "duration_in_traffic": 7898
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489229",
+            "distance": 62042,
+            "duration": 6810,
+            "duration_in_traffic": 7993
         }
     ],
     "6a7d4b08f3c041741448ce5e77241382c012731bea7420285b91b448b59851e2": [
@@ -61415,6 +63215,12 @@
             "distance": 80013,
             "duration": 6965,
             "duration_in_traffic": 8470
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.414907",
+            "distance": 80013,
+            "duration": 6965,
+            "duration_in_traffic": 7660
         }
     ],
     "2cbdd40419158f242c8ea4c416b91691749109adc45860c98732848da721745f": [
@@ -61513,6 +63319,12 @@
             "distance": 26506,
             "duration": 3008,
             "duration_in_traffic": 2785
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110404",
+            "distance": 26506,
+            "duration": 3008,
+            "duration_in_traffic": 2606
         }
     ],
     "35bac4b8e14495e34724129dc94878f7ef33cdcac1dbeefaa0bca1d3fcf5fc2d": [
@@ -61611,6 +63423,12 @@
             "distance": 56872,
             "duration": 5307,
             "duration_in_traffic": 4913
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110399",
+            "distance": 40648,
+            "duration": 5281,
+            "duration_in_traffic": 4658
         }
     ],
     "55c256d7ed37cc353950f8f1a6dcfbcce654de624e84e88190c0ad68212013b4": [
@@ -61709,6 +63527,12 @@
             "distance": 46092,
             "duration": 3672,
             "duration_in_traffic": 4140
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.489242",
+            "distance": 46092,
+            "duration": 3672,
+            "duration_in_traffic": 4882
         }
     ],
     "b1fb0351a09152a96524888f3b714e1518d42a8b7863aca6a8fee7ca90eae7e0": [
@@ -61807,6 +63631,12 @@
             "distance": 40431,
             "duration": 4805,
             "duration_in_traffic": 4590
+        },
+        {
+            "timestamp": "2023-01-16T03:42:48.798134",
+            "distance": 40418,
+            "duration": 5206,
+            "duration_in_traffic": 4807
         }
     ],
     "d8b54df15608609f8ba623e0848800f63c4261d5fa80beba6ffbca4d1ff9d0ea": [
@@ -61905,6 +63735,12 @@
             "distance": 33653,
             "duration": 4701,
             "duration_in_traffic": 6035
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.751049",
+            "distance": 48602,
+            "duration": 4511,
+            "duration_in_traffic": 4545
         }
     ],
     "fc3b1dfe5a23dc634584b17908148b0505cfa807eb595d0f42401ac00bc847b1": [
@@ -62003,6 +63839,12 @@
             "distance": 28639,
             "duration": 2389,
             "duration_in_traffic": 2270
+        },
+        {
+            "timestamp": "2023-01-16T03:42:50.393852",
+            "distance": 28639,
+            "duration": 2389,
+            "duration_in_traffic": 2081
         }
     ],
     "b30aae45df0beb6dcf16cddcec04a1f03c59c506520e5b1a4ddb22c2299f261e": [
@@ -62101,6 +63943,12 @@
             "distance": 20696,
             "duration": 3020,
             "duration_in_traffic": 2661
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457134",
+            "distance": 20696,
+            "duration": 3020,
+            "duration_in_traffic": 2488
         }
     ],
     "0add344398088a36c0267e54ca519ad056440d89c19fa01bae4aa60bc9b763e9": [
@@ -62199,6 +64047,12 @@
             "distance": 112602,
             "duration": 7168,
             "duration_in_traffic": 7520
+        },
+        {
+            "timestamp": "2023-01-16T03:42:45.147334",
+            "distance": 79177,
+            "duration": 6209,
+            "duration_in_traffic": 6122
         }
     ],
     "81f8e262bb2b373d021006c810d85e238b678eb3fbb17139d93ca51cb8652cf1": [
@@ -62297,6 +64151,12 @@
             "distance": 26747,
             "duration": 3705,
             "duration_in_traffic": 3255
+        },
+        {
+            "timestamp": "2023-01-16T03:42:46.950792",
+            "distance": 26747,
+            "duration": 3705,
+            "duration_in_traffic": 3133
         }
     ],
     "7892666b14d55455d06ca1bb7e3c2ec3045776259a110169b11f1053d8165b41": [
@@ -62395,6 +64255,12 @@
             "distance": 17366,
             "duration": 1714,
             "duration_in_traffic": 1614
+        },
+        {
+            "timestamp": "2023-01-16T03:42:49.457138",
+            "distance": 17366,
+            "duration": 1714,
+            "duration_in_traffic": 1489
         }
     ],
     "69fe841b754ee45a92890ab54bba2e227339ceb8617d8201bad60c3f84c32bed": [
@@ -62493,6 +64359,12 @@
             "distance": 16102,
             "duration": 1767,
             "duration_in_traffic": 1725
+        },
+        {
+            "timestamp": "2023-01-16T03:42:42.087798",
+            "distance": 16102,
+            "duration": 1767,
+            "duration_in_traffic": 1589
         }
     ],
     "aab89cab97eba4ba21c1e16336516792fce3e71d1576eac13d6480efe187f66d": [
@@ -62591,6 +64463,12 @@
             "distance": 51381,
             "duration": 4551,
             "duration_in_traffic": 4069
+        },
+        {
+            "timestamp": "2023-01-16T03:42:44.110425",
+            "distance": 51381,
+            "duration": 4551,
+            "duration_in_traffic": 3948
         }
     ]
 }
